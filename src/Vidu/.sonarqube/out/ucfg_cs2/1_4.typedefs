@@ -1,0 +1,19 @@
+ˆ
+&Presentation.GRPC.CreateSessionRequestobjectW
+CreateSessionRequest()=Presentation.GRPC.CreateSessionRequest.CreateSessionRequest()K
+OnConstruction()7Presentation.GRPC.CreateSessionRequest.OnConstruction()£
+<CreateSessionRequest(Presentation.GRPC.CreateSessionRequest)cPresentation.GRPC.CreateSessionRequest.CreateSessionRequest(Presentation.GRPC.CreateSessionRequest)9
+Clone().Presentation.GRPC.CreateSessionRequest.Clone()G
+Equals(object)5Presentation.GRPC.CreateSessionRequest.Equals(object)‡
+.Equals(Presentation.GRPC.CreateSessionRequest)UPresentation.GRPC.CreateSessionRequest.Equals(Presentation.GRPC.CreateSessionRequest)E
+GetHashCode()4Presentation.GRPC.CreateSessionRequest.GetHashCode()?
+
+ToString()1Presentation.GRPC.CreateSessionRequest.ToString()
+*WriteTo(Google.Protobuf.CodedOutputStream)QPresentation.GRPC.CreateSessionRequest.WriteTo(Google.Protobuf.CodedOutputStream)Ë
+PGoogle.Protobuf.IBufferMessage.InternalWriteTo(ref Google.Protobuf.WriteContext)wPresentation.GRPC.CreateSessionRequest.Google.Protobuf.IBufferMessage.InternalWriteTo(ref Google.Protobuf.WriteContext)I
+CalculateSize()6Presentation.GRPC.CreateSessionRequest.CalculateSize()
+1MergeFrom(Presentation.GRPC.CreateSessionRequest)XPresentation.GRPC.CreateSessionRequest.MergeFrom(Presentation.GRPC.CreateSessionRequest)
++MergeFrom(Google.Protobuf.CodedInputStream)RPresentation.GRPC.CreateSessionRequest.MergeFrom(Google.Protobuf.CodedInputStream)Ï
+RGoogle.Protobuf.IBufferMessage.InternalMergeFrom(ref Google.Protobuf.ParseContext)yPresentation.GRPC.CreateSessionRequest.Google.Protobuf.IBufferMessage.InternalMergeFrom(ref Google.Protobuf.ParseContext)y
+'Google.Protobuf.IMessage.Descriptor.getNPresentation.GRPC.CreateSessionRequest.Google.Protobuf.IMessage.Descriptor.gety
+'Google.Protobuf.IMessage.Descriptor.setNPresentation.GRPC.CreateSessionRequest.Google.Protobuf.IMessage.Descriptor.set

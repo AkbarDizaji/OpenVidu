@@ -1,0 +1,4 @@
+ä
+/Application.Commands.CloseSessionCommandHandlerobjectÈ
+JCloseSessionCommandHandler(Infrastructure.Persistance.IPersistanceService)zApplication.Commands.CloseSessionCommandHandler.CloseSessionCommandHandler(Infrastructure.Persistance.IPersistanceService)Ý
+THandle(Application.Commands.CloseSessionCommand, System.Threading.CancellationToken)„Application.Commands.CloseSessionCommandHandler.Handle(Application.Commands.CloseSessionCommand, System.Threading.CancellationToken)

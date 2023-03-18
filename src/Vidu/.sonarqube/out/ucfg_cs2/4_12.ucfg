@@ -1,0 +1,27 @@
+
+RPresentation.Service.StorageService.StartAsync(System.Threading.CancellationToken)A
+7D:\Vidu\src\Vidu\Presentation\Service\StorageService.cs ("0*–
+0A
+7D:\Vidu\src\Vidu\Presentation\Service\StorageService.cs  (!§
+¤
+A
+7D:\Vidu\src\Vidu\Presentation\Service\StorageService.cs (
+
+%0void"*Presentation.Service.StorageService.Init()*'%
+#Presentation.Service.StorageService¹
+¶
+A
+7D:\Vidu\src\Vidu\Presentation\Service\StorageService.cs   (!!
+%1System.Threading.Tasks.Task"-System.Threading.Tasks.Task.CompletedTask.get*"
+System.Threading.Tasks.Task"h
+A
+7D:\Vidu\src\Vidu\Presentation\Service\StorageService.cs   ("#
+!
+%1System.Threading.Tasks.Task* 
+1A
+7D:\Vidu\src\Vidu\Presentation\Service\StorageService.cs! !("X
+A
+7D:\Vidu\src\Vidu\Presentation\Service\StorageService.cs! !(
+implicit return:7
+cancellationToken"System.Threading.CancellationTokenB'%
+#Presentation.Service.StorageService

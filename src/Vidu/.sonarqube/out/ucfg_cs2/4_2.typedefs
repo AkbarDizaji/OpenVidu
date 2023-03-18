@@ -1,0 +1,8 @@
+Å
+*Presentation.Controllers.SessionController#Microsoft.AspNetCore.Mvc.Controller'Microsoft.AspNetCore.Mvc.ControllerBaseobjectè
+\CreateSession(Application.Commands.CreateSessionCommand, System.Threading.CancellationToken)‡Presentation.Controllers.SessionController.CreateSession(Application.Commands.CreateSessionCommand, System.Threading.CancellationToken)Ÿ
+8CloseSession(string, System.Threading.CancellationToken)cPresentation.Controllers.SessionController.CloseSession(string, System.Threading.CancellationToken)K
+ViduCallBack()9Presentation.Controllers.SessionController.ViduCallBack()U
+SessionController()>Presentation.Controllers.SessionController.SessionController()G
+Mediator.get7Presentation.Controllers.SessionController.Mediator.getG
+Mediator.set7Presentation.Controllers.SessionController.Mediator.set

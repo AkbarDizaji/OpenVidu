@@ -1,0 +1,59 @@
+
+±Presentation.Controllers.ApiController.ApiController(Microsoft.Extensions.Logging.ILogger<Presentation.Controllers.ApiController>, Openvidu.Net.Aspnet.Contract.IOpenViduService)C
+9D:\Vidu\src\Vidu\Presentation\Controllers\ApiContoller.cs ("3*ƒ
+1C
+9D:\Vidu\src\Vidu\Presentation\Controllers\ApiContoller.cs (u
+s
+
+%0void"8Microsoft.AspNetCore.Mvc.ControllerBase.ControllerBase()*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*
+0*’	
+0C
+9D:\Vidu\src\Vidu\Presentation\Controllers\ApiContoller.cs (2˚
+¯
+C
+9D:\Vidu\src\Vidu\Presentation\Controllers\ApiContoller.cs (j(
+&Presentation.Controllers.ApiController">
+_logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>"__id*?
+=
+logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>Å
+˛
+C
+9D:\Vidu\src\Vidu\Presentation\Controllers\ApiContoller.cs (*m(
+&Presentation.Controllers.ApiController"A
+_openViduService-Openvidu.Net.Aspnet.Contract.IOpenViduService"__id*B
+@
+openViduService-Openvidu.Net.Aspnet.Contract.IOpenViduServiceÙ
+Ò
+C
+9D:\Vidu\src\Vidu\Presentation\Controllers\ApiContoller.cs (3
+%1-Openvidu.Net.Aspnet.Contract.IOpenViduService"__id*o*m(
+&Presentation.Controllers.ApiController"A
+_openViduService-Openvidu.Net.Aspnet.Contract.IOpenViduServiceåâ
+C
+9D:\Vidu\src\Vidu\Presentation\Controllers\ApiContoller.cs (3
+
+%2void"ëOpenvidu.Net.Aspnet.Contract.IOpenViduService.RegisterHandler(System.Func<Openvidu.Net.Aspnet.Event.OpenViduEvent, System.Threading.Tasks.Task>?)*5
+3
+%1-Openvidu.Net.Aspnet.Contract.IOpenViduService*
+""2cRegisterHandler(System.Func<Openvidu.Net.Aspnet.Event.OpenViduEvent, System.Threading.Tasks.Task>?)*
+2*§
+2C
+9D:\Vidu\src\Vidu\Presentation\Controllers\ApiContoller.cs ("Z
+C
+9D:\Vidu\src\Vidu\Presentation\Controllers\ApiContoller.cs (
+implicit return*±
+3C
+9D:\Vidu\src\Vidu\Presentation\Controllers\ApiContoller.csY (Y·
+ﬁ
+C
+9D:\Vidu\src\Vidu\Presentation\Controllers\ApiContoller.cs (
+%3"__entrypoint*?
+=
+logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>*B
+@
+openViduService-Openvidu.Net.Aspnet.Contract.IOpenViduService*
+1:=
+logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>:@
+openViduService-Openvidu.Net.Aspnet.Contract.IOpenViduServiceB*(
+&Presentation.Controllers.ApiController

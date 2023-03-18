@@ -1,0 +1,197 @@
+
+JDomain.Session.Session.Session(string, bool, string, string, string, bool)4
+*D:\Vidu\src\Vidu\Domain\Session\Session.cs$ $("1*>
+14
+*D:\Vidu\src\Vidu\Domain\Session\Session.cs4 4(*
+0*ö$
+04
+*D:\Vidu\src\Vidu\Domain\Session\Session.cs' 3($Õ
+ 
+4
+*D:\Vidu\src\Vidu\Domain\Session\Session.cs' '(  
+%0Dawn.Guard.ArgumentInfo<T>"PDawn.Guard.Argument<T>(System.Linq.Expressions.Expression<System.Func<T>>, bool)*"
+
+Dawn.Guard*
+""*
+""÷
+”
+4
+*D:\Vidu\src\Vidu\Domain\Session\Session.cs' '(* 
+%1Dawn.Guard.ArgumentInfo<T>"=Dawn.Guard.NotNull<T>(in Dawn.Guard.ArgumentInfo<T>, string?)*"
+
+Dawn.Guard*"
+ 
+%0Dawn.Guard.ArgumentInfo<T>*
+""ÿ
+’
+4
+*D:\Vidu\src\Vidu\Domain\Session\Session.cs' '(5 
+%2Dawn.Guard.ArgumentInfo<T>"?Dawn.Guard.NotEmpty(in Dawn.Guard.ArgumentInfo<string>, string)*"
+
+Dawn.Guard*"
+ 
+%1Dawn.Guard.ArgumentInfo<T>*
+""Õ
+ 
+4
+*D:\Vidu\src\Vidu\Domain\Session\Session.cs( ((' 
+%3Dawn.Guard.ArgumentInfo<T>"PDawn.Guard.Argument<T>(System.Linq.Expressions.Expression<System.Func<T>>, bool)*"
+
+Dawn.Guard*
+""*
+""÷
+”
+4
+*D:\Vidu\src\Vidu\Domain\Session\Session.cs( ((1 
+%4Dawn.Guard.ArgumentInfo<T>"=Dawn.Guard.NotNull<T>(in Dawn.Guard.ArgumentInfo<T>, string?)*"
+
+Dawn.Guard*"
+ 
+%3Dawn.Guard.ArgumentInfo<T>*
+""ÿ
+’
+4
+*D:\Vidu\src\Vidu\Domain\Session\Session.cs( ((< 
+%5Dawn.Guard.ArgumentInfo<T>"?Dawn.Guard.NotEmpty(in Dawn.Guard.ArgumentInfo<string>, string)*"
+
+Dawn.Guard*"
+ 
+%4Dawn.Guard.ArgumentInfo<T>*
+""Õ
+ 
+4
+*D:\Vidu\src\Vidu\Domain\Session\Session.cs) )(+ 
+%6Dawn.Guard.ArgumentInfo<T>"PDawn.Guard.Argument<T>(System.Linq.Expressions.Expression<System.Func<T>>, bool)*"
+
+Dawn.Guard*
+""*
+""÷
+”
+4
+*D:\Vidu\src\Vidu\Domain\Session\Session.cs) )(5 
+%7Dawn.Guard.ArgumentInfo<T>"=Dawn.Guard.NotNull<T>(in Dawn.Guard.ArgumentInfo<T>, string?)*"
+
+Dawn.Guard*"
+ 
+%6Dawn.Guard.ArgumentInfo<T>*
+""ÿ
+’
+4
+*D:\Vidu\src\Vidu\Domain\Session\Session.cs) )(@ 
+%8Dawn.Guard.ArgumentInfo<T>"?Dawn.Guard.NotEmpty(in Dawn.Guard.ArgumentInfo<string>, string)*"
+
+Dawn.Guard*"
+ 
+%7Dawn.Guard.ArgumentInfo<T>*
+""Õ
+ 
+4
+*D:\Vidu\src\Vidu\Domain\Session\Session.cs* *(. 
+%9Dawn.Guard.ArgumentInfo<T>"PDawn.Guard.Argument<T>(System.Linq.Expressions.Expression<System.Func<T>>, bool)*"
+
+Dawn.Guard*
+""*
+""◊
+‘
+4
+*D:\Vidu\src\Vidu\Domain\Session\Session.cs* *(8!
+%10Dawn.Guard.ArgumentInfo<T>"=Dawn.Guard.NotNull<T>(in Dawn.Guard.ArgumentInfo<T>, string?)*"
+
+Dawn.Guard*"
+ 
+%9Dawn.Guard.ArgumentInfo<T>*
+""⁄
+◊
+4
+*D:\Vidu\src\Vidu\Domain\Session\Session.cs* *(C!
+%11Dawn.Guard.ArgumentInfo<T>"?Dawn.Guard.NotEmpty(in Dawn.Guard.ArgumentInfo<string>, string)*"
+
+Dawn.Guard*#
+!
+%10Dawn.Guard.ArgumentInfo<T>*
+""ì
+ê
+4
+*D:\Vidu\src\Vidu\Domain\Session\Session.cs, ,(
+%12string"Domain.Session.Session.Id.set*
+Domain.Session.Session*
+
+idstringê
+ç
+4
+*D:\Vidu\src\Vidu\Domain\Session\Session.cs- -(
+%13bool"$Domain.Session.Session.Recording.set*
+Domain.Session.Session*
+""°
+û
+4
+*D:\Vidu\src\Vidu\Domain\Session\Session.cs. .(
+%14string"$Domain.Session.Session.MediaMode.set*
+Domain.Session.Session*
+
+	mediaModestring©
+¶
+4
+*D:\Vidu\src\Vidu\Domain\Session\Session.cs/ /(%
+%15string"(Domain.Session.Session.RecordingMode.set*
+Domain.Session.Session*
+
+recordingModestringØ
+¨
+4
+*D:\Vidu\src\Vidu\Domain\Session\Session.cs0 0(+
+%16string"+Domain.Session.Session.ForcedVideoCodec.set*
+Domain.Session.Session*
+
+forcedVideoCodecstringó
+î
+4
+*D:\Vidu\src\Vidu\Domain\Session\Session.cs1 1(+
+%17bool"+Domain.Session.Session.AllowTranscoding.set*
+Domain.Session.Session*
+""àÖ
+4
+*D:\Vidu\src\Vidu\Domain\Session\Session.cs2 2(,)
+%18"System.Collections.Generic.List<T>""System.Collections.Generic.List<T>û
+õ
+4
+*D:\Vidu\src\Vidu\Domain\Session\Session.cs2 2(*
+%19void")System.Collections.Generic.List<T>.List()*+
+)
+%18"System.Collections.Generic.List<T>’
+“
+4
+*D:\Vidu\src\Vidu\Domain\Session\Session.cs2 2(,)
+%20"System.Collections.Generic.List<T>"&Domain.Session.Session.Connections.set*
+Domain.Session.Session*+
+)
+%18"System.Collections.Generic.List<T>àÖ
+4
+*D:\Vidu\src\Vidu\Domain\Session\Session.cs3 3($)
+%21"System.Collections.Generic.List<T>""System.Collections.Generic.List<T>û
+õ
+4
+*D:\Vidu\src\Vidu\Domain\Session\Session.cs3 3("
+%22void")System.Collections.Generic.List<T>.List()*+
+)
+%21"System.Collections.Generic.List<T>—
+Œ
+4
+*D:\Vidu\src\Vidu\Domain\Session\Session.cs3 3($)
+%23"System.Collections.Generic.List<T>""Domain.Session.Session.UserIds.set*
+Domain.Session.Session*+
+)
+%21"System.Collections.Generic.List<T>*
+2*Ü
+24
+*D:\Vidu\src\Vidu\Domain\Session\Session.cs4 4("K
+4
+*D:\Vidu\src\Vidu\Domain\Session\Session.cs4 4(
+implicit return:
+idstring:
+	recordingbool:
+	mediaModestring:
+recordingModestring:
+forcedVideoCodecstring:
+allowTranscodingboolB
+Domain.Session.Session

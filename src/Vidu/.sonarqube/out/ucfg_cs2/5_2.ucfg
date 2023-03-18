@@ -1,0 +1,326 @@
+
+ÄPresentation.GRPC.Services.GreeterService.SendSessionCreate(Presentation.GRPC.CreateSessionRequest, Grpc.Core.ServerCallContext)G
+=D:\Vidu\src\Vidu\Presentation.GRPC\Services\GreeterService.cs1 (B"0*ˇN
+0G
+=D:\Vidu\src\Vidu\Presentation.GRPC\Services\GreeterService.cs &(Dƒ¡
+G
+=D:\Vidu\src\Vidu\Presentation.GRPC\Services\GreeterService.cs$ (>=
+%07Microsoft.Extensions.Configuration.ConfigurationBuilder"7Microsoft.Extensions.Configuration.ConfigurationBuilderÈ
+Ê
+G
+=D:\Vidu\src\Vidu\Presentation.GRPC\Services\GreeterService.cs( (<
+
+%1void"NMicrosoft.Extensions.Configuration.ConfigurationBuilder.ConfigurationBuilder()*?
+=
+%07Microsoft.Extensions.Configuration.ConfigurationBuilderû
+õ
+G
+=D:\Vidu\src\Vidu\Presentation.GRPC\Services\GreeterService.cs (<
+%2string")System.IO.Directory.GetCurrentDirectory()*"
+System.IO.Directory∞
+≠
+G
+=D:\Vidu\src\Vidu\Presentation.GRPC\Services\GreeterService.cs$ (=>
+%38Microsoft.Extensions.Configuration.IConfigurationBuilder"åMicrosoft.Extensions.Configuration.FileConfigurationExtensions.SetBasePath(Microsoft.Extensions.Configuration.IConfigurationBuilder, string)*B"@
+>Microsoft.Extensions.Configuration.FileConfigurationExtensions*?
+=
+%07Microsoft.Extensions.Configuration.ConfigurationBuilder*
+
+%2string∑
+¥
+G
+=D:\Vidu\src\Vidu\Presentation.GRPC\Services\GreeterService.cs$ (0>
+%48Microsoft.Extensions.Configuration.IConfigurationBuilder"åMicrosoft.Extensions.Configuration.JsonConfigurationExtensions.AddJsonFile(Microsoft.Extensions.Configuration.IConfigurationBuilder, string)*B"@
+>Microsoft.Extensions.Configuration.JsonConfigurationExtensions*@
+>
+%38Microsoft.Extensions.Configuration.IConfigurationBuilder*
+appsettings.json´
+®
+G
+=D:\Vidu\src\Vidu\Presentation.GRPC\Services\GreeterService.cs$ (*>
+%58Microsoft.Extensions.Configuration.IConfigurationBuilder"ìMicrosoft.Extensions.Configuration.EnvironmentVariablesExtensions.AddEnvironmentVariables(Microsoft.Extensions.Configuration.IConfigurationBuilder)*E"C
+AMicrosoft.Extensions.Configuration.EnvironmentVariablesExtensions*@
+>
+%48Microsoft.Extensions.Configuration.IConfigurationBuilderñì
+G
+=D:\Vidu\src\Vidu\Presentation.GRPC\Services\GreeterService.cs$ (2;
+%65Microsoft.Extensions.Configuration.IConfigurationRoot"@Microsoft.Extensions.Configuration.IConfigurationBuilder.Build()*@
+>
+%58Microsoft.Extensions.Configuration.IConfigurationBuilder2Build()Œ
+À
+G
+=D:\Vidu\src\Vidu\Presentation.GRPC\Services\GreeterService.cs (2;
+config1Microsoft.Extensions.Configuration.IConfiguration"__id*=
+;
+%65Microsoft.Extensions.Configuration.IConfigurationRoot·
+ﬁ
+G
+=D:\Vidu\src\Vidu\Presentation.GRPC\Services\GreeterService.cs (=
+%7string"}Microsoft.Extensions.Configuration.ConfigurationBinder.GetValue<T>(Microsoft.Extensions.Configuration.IConfiguration, string)*:"8
+6Microsoft.Extensions.Configuration.ConfigurationBinder*=
+;
+config1Microsoft.Extensions.Configuration.IConfiguration*	
+ViduUrlt
+r
+G
+=D:\Vidu\src\Vidu\Presentation.GRPC\Services\GreeterService.cs (=
+viduUrlstring"__id*
+
+%7stringÍ
+Á
+G
+=D:\Vidu\src\Vidu\Presentation.GRPC\Services\GreeterService.cs! (L
+%8string"}Microsoft.Extensions.Configuration.ConfigurationBinder.GetValue<T>(Microsoft.Extensions.Configuration.IConfiguration, string)*:"8
+6Microsoft.Extensions.Configuration.ConfigurationBinder*=
+;
+config1Microsoft.Extensions.Configuration.IConfiguration*
+Basic_Vidu_token{
+y
+G
+=D:\Vidu\src\Vidu\Presentation.GRPC\Services\GreeterService.cs (L
+BasicViduTokenstring"__id*
+
+%8string}{
+G
+=D:\Vidu\src\Vidu\Presentation.GRPC\Services\GreeterService.cs ()
+%9RestSharp.RestClient"RestSharp.RestClientö
+ó
+G
+=D:\Vidu\src\Vidu\Presentation.GRPC\Services\GreeterService.cs ('
+%10void"!RestSharp.RestClient.RestClient()*
+
+%9RestSharp.RestClientê
+ç
+G
+=D:\Vidu\src\Vidu\Presentation.GRPC\Services\GreeterService.cs ()
+clientRestSharp.RestClient"__id*
+
+%9RestSharp.RestClient`
+^
+G
+=D:\Vidu\src\Vidu\Presentation.GRPC\Services\GreeterService.cs7 (B
+%11"__id*
+""Ä~
+G
+=D:\Vidu\src\Vidu\Presentation.GRPC\Services\GreeterService.cs (C
+%12RestSharp.RestRequest"RestSharp.RestRequest’
+“
+G
+=D:\Vidu\src\Vidu\Presentation.GRPC\Services\GreeterService.cs" (-
+%13void"<RestSharp.RestRequest.RestRequest(string?, RestSharp.Method)*
+
+%12RestSharp.RestRequest*
+
+viduUrlstring*
+
+%11ò
+ï
+G
+=D:\Vidu\src\Vidu\Presentation.GRPC\Services\GreeterService.cs (C$
+sendRequestRestSharp.RestRequest"__id*
+
+%12RestSharp.RestRequest∏
+µ
+G
+=D:\Vidu\src\Vidu\Presentation.GRPC\Services\GreeterService.cs (B
+%14RestSharp.RestRequest"PRestSharp.RestRequestExtensions.AddHeader(RestSharp.RestRequest, string, string)*#"!
+RestSharp.RestRequestExtensions*&
+$
+sendRequestRestSharp.RestRequest*
+Authorization*
+
+BasicViduTokenstring©
+¶
+G
+=D:\Vidu\src\Vidu\Presentation.GRPC\Services\GreeterService.cs% (E+
+%15$System.Threading.Tasks.Task<TResult>"\RestSharp.RestClient.ExecuteAsync(RestSharp.RestRequest, System.Threading.CancellationToken)* 
+
+clientRestSharp.RestClient*&
+$
+sendRequestRestSharp.RestRequest*
+""À
+»
+G
+=D:\Vidu\src\Vidu\Presentation.GRPC\Services\GreeterService.cs% (L
+%16RestSharp.RestResponse"/System.Threading.Tasks.Task<TResult>.Result.get*-
++
+%15$System.Threading.Tasks.Task<TResult>ó
+î
+G
+=D:\Vidu\src\Vidu\Presentation.GRPC\Services\GreeterService.cs (L"
+responseRestSharp.RestResponse"__id*
+
+%16RestSharp.RestResponse©
+¶
+G
+=D:\Vidu\src\Vidu\Presentation.GRPC\Services\GreeterService.cs( (8
+%17string"&RestSharp.RestResponseBase.Content.get*$
+"
+responseRestSharp.RestResponse–
+Õ
+G
+=D:\Vidu\src\Vidu\Presentation.GRPC\Services\GreeterService.cs (9#
+%18Newtonsoft.Json.Linq.JObject"*Newtonsoft.Json.Linq.JObject.Parse(string)* "
+Newtonsoft.Json.Linq.JObject*
+
+%17string¢
+ü
+G
+=D:\Vidu\src\Vidu\Presentation.GRPC\Services\GreeterService.cs (9'
+contentNewtonsoft.Json.Linq.JObject"__id*%
+#
+%18Newtonsoft.Json.Linq.JObjectüú
+G
+=D:\Vidu\src\Vidu\Presentation.GRPC\Services\GreeterService.cs# '(+
+%19$Presentation.GRPC.CreateSessionReply"$Presentation.GRPC.CreateSessionReply√
+¿
+G
+=D:\Vidu\src\Vidu\Presentation.GRPC\Services\GreeterService.cs' (9
+%20void"9Presentation.GRPC.CreateSessionReply.CreateSessionReply()*-
++
+%19$Presentation.GRPC.CreateSessionReply≠
+™
+G
+=D:\Vidu\src\Vidu\Presentation.GRPC\Services\GreeterService.cs! !(""
+%21Newtonsoft.Json.Linq.JToken"__mapGet*)
+'
+contentNewtonsoft.Json.Linq.JObject*
+idµ≤
+G
+=D:\Vidu\src\Vidu\Presentation.GRPC\Services\GreeterService.cs! !(-
+%22string"&Newtonsoft.Json.Linq.JToken.ToString()*$
+"
+%21Newtonsoft.Json.Linq.JToken2
+ToString()»
+≈
+G
+=D:\Vidu\src\Vidu\Presentation.GRPC\Services\GreeterService.cs! !(-
+%23string"+Presentation.GRPC.CreateSessionReply.Id.set*-
++
+%19$Presentation.GRPC.CreateSessionReply*
+
+%22string¥
+±
+G
+=D:\Vidu\src\Vidu\Presentation.GRPC\Services\GreeterService.cs"# "(7"
+%24Newtonsoft.Json.Linq.JToken"__mapGet*)
+'
+contentNewtonsoft.Json.Linq.JObject*
+	recordingÖ
+Ç
+G
+=D:\Vidu\src\Vidu\Presentation.GRPC\Services\GreeterService.cs" "(7
+%25bool"__id*$
+"
+%24Newtonsoft.Json.Linq.JTokenÀ
+»
+G
+=D:\Vidu\src\Vidu\Presentation.GRPC\Services\GreeterService.cs" "(7
+%26bool"2Presentation.GRPC.CreateSessionReply.Recording.set*-
++
+%19$Presentation.GRPC.CreateSessionReply*
+
+%25bool¥
+±
+G
+=D:\Vidu\src\Vidu\Presentation.GRPC\Services\GreeterService.cs# #(0"
+%27Newtonsoft.Json.Linq.JToken"__mapGet*)
+'
+contentNewtonsoft.Json.Linq.JObject*
+	mediaModeµ≤
+G
+=D:\Vidu\src\Vidu\Presentation.GRPC\Services\GreeterService.cs# #(;
+%28string"&Newtonsoft.Json.Linq.JToken.ToString()*$
+"
+%27Newtonsoft.Json.Linq.JToken2
+ToString()œ
+Ã
+G
+=D:\Vidu\src\Vidu\Presentation.GRPC\Services\GreeterService.cs# #(;
+%29string"2Presentation.GRPC.CreateSessionReply.MediaMode.set*-
++
+%19$Presentation.GRPC.CreateSessionReply*
+
+%28string∏
+µ
+G
+=D:\Vidu\src\Vidu\Presentation.GRPC\Services\GreeterService.cs$  $(8"
+%30Newtonsoft.Json.Linq.JToken"__mapGet*)
+'
+contentNewtonsoft.Json.Linq.JObject*
+recordingModeµ≤
+G
+=D:\Vidu\src\Vidu\Presentation.GRPC\Services\GreeterService.cs$  $(C
+%31string"&Newtonsoft.Json.Linq.JToken.ToString()*$
+"
+%30Newtonsoft.Json.Linq.JToken2
+ToString()”
+–
+G
+=D:\Vidu\src\Vidu\Presentation.GRPC\Services\GreeterService.cs$ $(C
+%32string"6Presentation.GRPC.CreateSessionReply.RecordingMode.set*-
++
+%19$Presentation.GRPC.CreateSessionReply*
+
+%31stringª
+∏
+G
+=D:\Vidu\src\Vidu\Presentation.GRPC\Services\GreeterService.cs%# %(>"
+%33Newtonsoft.Json.Linq.JToken"__mapGet*)
+'
+contentNewtonsoft.Json.Linq.JObject*
+forcedVideoCodecµ≤
+G
+=D:\Vidu\src\Vidu\Presentation.GRPC\Services\GreeterService.cs%# %(I
+%34string"&Newtonsoft.Json.Linq.JToken.ToString()*$
+"
+%33Newtonsoft.Json.Linq.JToken2
+ToString()÷
+”
+G
+=D:\Vidu\src\Vidu\Presentation.GRPC\Services\GreeterService.cs% %(I
+%35string"9Presentation.GRPC.CreateSessionReply.ForcedVideoCodec.set*-
++
+%19$Presentation.GRPC.CreateSessionReply*
+
+%34stringª
+∏
+G
+=D:\Vidu\src\Vidu\Presentation.GRPC\Services\GreeterService.cs&* &(E"
+%36Newtonsoft.Json.Linq.JToken"__mapGet*)
+'
+contentNewtonsoft.Json.Linq.JObject*
+allowTranscodingÖ
+Ç
+G
+=D:\Vidu\src\Vidu\Presentation.GRPC\Services\GreeterService.cs&# &(E
+%37bool"__id*$
+"
+%36Newtonsoft.Json.Linq.JToken“
+œ
+G
+=D:\Vidu\src\Vidu\Presentation.GRPC\Services\GreeterService.cs& &(E
+%38bool"9Presentation.GRPC.CreateSessionReply.AllowTranscoding.set*-
++
+%19$Presentation.GRPC.CreateSessionReply*
+
+%37boolÉ
+Ä
+G
+=D:\Vidu\src\Vidu\Presentation.GRPC\Services\GreeterService.cs '(+
+%39$System.Threading.Tasks.Task<TResult>"8System.Threading.Tasks.Task.FromResult<TResult>(TResult)*"
+System.Threading.Tasks.Task*-
++
+%19$Presentation.GRPC.CreateSessionReply"x
+G
+=D:\Vidu\src\Vidu\Presentation.GRPC\Services\GreeterService.cs '(-
++
+%39$System.Threading.Tasks.Task<TResult>*¨
+1G
+=D:\Vidu\src\Vidu\Presentation.GRPC\Services\GreeterService.cs(	 ((	"^
+G
+=D:\Vidu\src\Vidu\Presentation.GRPC\Services\GreeterService.cs( ((	
+implicit return:1
+request&Presentation.GRPC.CreateSessionRequest:&
+contextGrpc.Core.ServerCallContextB-+
+)Presentation.GRPC.Services.GreeterService

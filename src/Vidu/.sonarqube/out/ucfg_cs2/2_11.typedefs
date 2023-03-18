@@ -1,0 +1,23 @@
+á
+)Application.Commands.UpdateSessionCommandobject€
+)UpdateSessionCommand(string, int, string)SApplication.Commands.UpdateSessionCommand.UpdateSessionCommand(string, int, string)B
+
+ToString()4Application.Commands.UpdateSessionCommand.ToString()|
+'PrintMembers(System.Text.StringBuilder)QApplication.Commands.UpdateSessionCommand.PrintMembers(System.Text.StringBuilder)H
+GetHashCode()7Application.Commands.UpdateSessionCommand.GetHashCode()L
+Equals(object?)9Application.Commands.UpdateSessionCommand.Equals(object?)’
+2Equals(Application.Commands.UpdateSessionCommand?)\Application.Commands.UpdateSessionCommand.Equals(Application.Commands.UpdateSessionCommand?)B
+
+<Clone>$()4Application.Commands.UpdateSessionCommand.<Clone>$()¬
+?UpdateSessionCommand(Application.Commands.UpdateSessionCommand)iApplication.Commands.UpdateSessionCommand.UpdateSessionCommand(Application.Commands.UpdateSessionCommand)†
+,Deconstruct(out string, out int, out string)VApplication.Commands.UpdateSessionCommand.Deconstruct(out string, out int, out string)V
+EqualityContract.get>Application.Commands.UpdateSessionCommand.EqualityContract.getV
+EqualityContract.set>Application.Commands.UpdateSessionCommand.EqualityContract.set:
+Id.get0Application.Commands.UpdateSessionCommand.Id.get:
+Id.set0Application.Commands.UpdateSessionCommand.Id.setF
+Duration.get6Application.Commands.UpdateSessionCommand.Duration.getF
+Duration.set6Application.Commands.UpdateSessionCommand.Duration.setB
+
+Reason.get4Application.Commands.UpdateSessionCommand.Reason.getB
+
+Reason.set4Application.Commands.UpdateSessionCommand.Reason.set

@@ -1,0 +1,2 @@
+﻿D:\Vidu\src\Vidu\Domain\Session\Connection.cs
+D:\Vidu\src\Vidu\Domain\Session\Session.cs

@@ -1,0 +1,21 @@
+
+QPresentation.Service.StorageService.StopAsync(System.Threading.CancellationToken)A
+7D:\Vidu\src\Vidu\Presentation\Service\StorageService.cs# #("0*ì
+0A
+7D:\Vidu\src\Vidu\Presentation\Service\StorageService.cs% %(!¹
+¶
+A
+7D:\Vidu\src\Vidu\Presentation\Service\StorageService.cs% %(!!
+%0System.Threading.Tasks.Task"-System.Threading.Tasks.Task.CompletedTask.get*"
+System.Threading.Tasks.Task"h
+A
+7D:\Vidu\src\Vidu\Presentation\Service\StorageService.cs% %("#
+!
+%0System.Threading.Tasks.Task* 
+1A
+7D:\Vidu\src\Vidu\Presentation\Service\StorageService.cs& &("X
+A
+7D:\Vidu\src\Vidu\Presentation\Service\StorageService.cs& &(
+implicit return:7
+cancellationToken"System.Threading.CancellationTokenB'%
+#Presentation.Service.StorageService

@@ -1,0 +1,108 @@
+
+{Infrastructure.Persistance.PersistService.FindByUserIdInSpecificSession(string, string, System.Threading.CancellationToken)G
+=D:\Vidu\src\Vidu\Infrastructure\Persistance\PersistService.cs)# )(@"0*ˆ
+0G
+=D:\Vidu\src\Vidu\Infrastructure\Persistance\PersistService.cs+ 3(Ü
+Ù
+G
+=D:\Vidu\src\Vidu\Infrastructure\Persistance\PersistService.cs+ +(17
+%01MongoDB.Driver.FilterDefinitionBuilder<TDocument>"-MongoDB.Driver.Builders<TDocument>.Filter.get*&"$
+"MongoDB.Driver.Builders<TDocument>Ó
+Ð
+G
+=D:\Vidu\src\Vidu\Infrastructure\Persistance\PersistService.cs+ +(G0
+%1*MongoDB.Driver.FilterDefinition<TDocument>"wMongoDB.Driver.FilterDefinitionBuilder<TDocument>.Eq<TField>(MongoDB.Driver.FieldDefinition<TDocument, TField>, TField)*9
+7
+%01MongoDB.Driver.FilterDefinitionBuilder<TDocument>*	
+UserIds*
+
+userIdstring¼
+¹
+G
+=D:\Vidu\src\Vidu\Infrastructure\Persistance\PersistService.cs+ +(G4
+filter*MongoDB.Driver.FilterDefinition<TDocument>"__id*2
+0
+%1*MongoDB.Driver.FilterDefinition<TDocument>Ü
+Ù
+G
+=D:\Vidu\src\Vidu\Infrastructure\Persistance\PersistService.cs, ,(/7
+%21MongoDB.Driver.FilterDefinitionBuilder<TDocument>"-MongoDB.Driver.Builders<TDocument>.Filter.get*&"$
+"MongoDB.Driver.Builders<TDocument>Ë
+È
+G
+=D:\Vidu\src\Vidu\Infrastructure\Persistance\PersistService.cs, ,(=0
+%3*MongoDB.Driver.FilterDefinition<TDocument>"wMongoDB.Driver.FilterDefinitionBuilder<TDocument>.Eq<TField>(MongoDB.Driver.FieldDefinition<TDocument, TField>, TField)*9
+7
+%21MongoDB.Driver.FilterDefinitionBuilder<TDocument>*
+_id*
+
+idstring¼
+¹
+G
+=D:\Vidu\src\Vidu\Infrastructure\Persistance\PersistService.cs, ,(>4
+filter*MongoDB.Driver.FilterDefinition<TDocument>"__id*2
+0
+%3*MongoDB.Driver.FilterDefinition<TDocument>â
+ß
+G
+=D:\Vidu\src\Vidu\Infrastructure\Persistance\PersistService.cs- -(99
+%43MongoDB.Driver.ProjectionDefinitionBuilder<TSource>"1MongoDB.Driver.Builders<TDocument>.Projection.get*&"$
+"MongoDB.Driver.Builders<TDocument>°
+­
+G
+=D:\Vidu\src\Vidu\Infrastructure\Persistance\PersistService.cs- -(L2
+%5,MongoDB.Driver.ProjectionDefinition<TSource>"dMongoDB.Driver.ProjectionDefinitionBuilder<TSource>.Include(MongoDB.Driver.FieldDefinition<TSource>)*;
+9
+%43MongoDB.Driver.ProjectionDefinitionBuilder<TSource>*	
+userIdsÄ
+Á
+G
+=D:\Vidu\src\Vidu\Infrastructure\Persistance\PersistService.cs- -(L:
+
+projection,MongoDB.Driver.ProjectionDefinition<TSource>"__id*4
+2
+%5,MongoDB.Driver.ProjectionDefinition<TSource>ï
+ì
+G
+=D:\Vidu\src\Vidu\Infrastructure\Persistance\PersistService.cs/ /('0
+%6*MongoDB.Driver.IMongoCollection<TDocument>"__id*i*g+
+)Infrastructure.Persistance.PersistService"8
+
+collection*MongoDB.Driver.IMongoCollection<TDocument>Ù
+Ö
+G
+=D:\Vidu\src\Vidu\Infrastructure\Persistance\PersistService.cs/ 0(8
+%72MongoDB.Driver.IFindFluent<TDocument, TProjection>"­MongoDB.Driver.IMongoCollectionExtensions.Find<TDocument>(MongoDB.Driver.IMongoCollection<TDocument>, MongoDB.Driver.FilterDefinition<TDocument>, MongoDB.Driver.FindOptions)*-"+
+)MongoDB.Driver.IMongoCollectionExtensions*2
+0
+%6*MongoDB.Driver.IMongoCollection<TDocument>*6
+4
+filter*MongoDB.Driver.FilterDefinition<TDocument>*
+""Ä
+Á
+G
+=D:\Vidu\src\Vidu\Infrastructure\Persistance\PersistService.cs/ 2(7*
+%8$System.Threading.Tasks.Task<TResult>"¨MongoDB.Driver.IFindFluentExtensions.FirstOrDefaultAsync<TDocument, TProjection>(MongoDB.Driver.IFindFluent<TDocument, TProjection>, System.Threading.CancellationToken)*("&
+$MongoDB.Driver.IFindFluentExtensions*:
+8
+%72MongoDB.Driver.IFindFluent<TDocument, TProjection>*9
+7
+cancellationToken"System.Threading.CancellationTokeny
+w
+G
+=D:\Vidu\src\Vidu\Infrastructure\Persistance\PersistService.cs/ 2(7
+itemDomain.Session.Session"__id*
+"""k
+G
+=D:\Vidu\src\Vidu\Infrastructure\Persistance\PersistService.cs3 3( 
+
+itemDomain.Session.Session*¬
+1G
+=D:\Vidu\src\Vidu\Infrastructure\Persistance\PersistService.cs4	 4(	"^
+G
+=D:\Vidu\src\Vidu\Infrastructure\Persistance\PersistService.cs4 4(	
+implicit return:
+idstring:
+userIdstring:7
+cancellationToken"System.Threading.CancellationTokenB-+
+)Infrastructure.Persistance.PersistService

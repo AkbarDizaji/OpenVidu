@@ -1,0 +1,121 @@
+
+cPresentation.Controllers.SessionController.CloseSession(string, System.Threading.CancellationToken)H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs/ /(""2*À	
+0H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs2	 2(RÏ
+Ì
+H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs2 2(
+%0MediatR.IMediator"7Presentation.Controllers.SessionController.Mediator.get*.,
+*Presentation.Controllers.SessionController§¤
+H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs2 2(?.
+%1(Application.Commands.CloseSessionCommand"(Application.Commands.CloseSessionCommandè
+å
+H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs2! 2(4
+
+%2void"DApplication.Commands.CloseSessionCommand.CloseSessionCommand(string)*0
+.
+%1(Application.Commands.CloseSessionCommand*
+
+	sessionIdstringµ²
+H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs2 2(S*
+%3$System.Threading.Tasks.Task<TResult>"`MediatR.ISender.Send<TResponse>(MediatR.IRequest<TResponse>, System.Threading.CancellationToken)*
+
+%0MediatR.IMediator*0
+.
+%1(Application.Commands.CloseSessionCommand*9
+7
+cancellationToken"System.Threading.CancellationToken2PSend<TResponse>(MediatR.IRequest<TResponse>, System.Threading.CancellationToken)"R
+H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs2	 2(S
+""*®
+1H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs2T 2(T"_
+H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs2S 2(T
+implicit return*ž
+2H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs2 2(³
+°
+H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs/ /("
+%4"__entrypoint*
+
+	sessionIdstring*9
+7
+cancellationToken"System.Threading.CancellationTokenÄ
+Á
+H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs, ,(
+%5"
+__annotate*LJ
+HMicrosoft.AspNetCore.Mvc.HttpDeleteAttribute.HttpDeleteAttribute(string)*
+
+	sessionIdstringÕ
+Ò
+H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs- -(
+%6"
+__annotate*][
+YMicrosoft.AspNetCore.Mvc.ProducesResponseTypeAttribute.ProducesResponseTypeAttribute(int)*
+
+	sessionIdstringÕ
+Ò
+H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs. .(
+%7"
+__annotate*][
+YMicrosoft.AspNetCore.Mvc.ProducesResponseTypeAttribute.ProducesResponseTypeAttribute(int)*
+
+	sessionIdstringˆ
+…
+H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs0 0(
+	sessionIdstring"__annotation*
+
+%5*
+
+%6*
+
+%7è
+å
+H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs, ,(
+%8"
+__annotate*LJ
+HMicrosoft.AspNetCore.Mvc.HttpDeleteAttribute.HttpDeleteAttribute(string)*9
+7
+cancellationToken"System.Threading.CancellationTokenù
+ö
+H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs- -(
+%9"
+__annotate*][
+YMicrosoft.AspNetCore.Mvc.ProducesResponseTypeAttribute.ProducesResponseTypeAttribute(int)*9
+7
+cancellationToken"System.Threading.CancellationTokenú
+÷
+H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs. .(
+%10"
+__annotate*][
+YMicrosoft.AspNetCore.Mvc.ProducesResponseTypeAttribute.ProducesResponseTypeAttribute(int)*9
+7
+cancellationToken"System.Threading.CancellationToken­
+ª
+H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs1 1(+7
+cancellationToken"System.Threading.CancellationToken"__annotation*
+
+%8*
+
+%9*
+
+%10*
+0:
+	sessionIdstring:7
+cancellationToken"System.Threading.CancellationTokenB.,
+*Presentation.Controllers.SessionController

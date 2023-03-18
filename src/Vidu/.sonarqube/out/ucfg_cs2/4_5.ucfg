@@ -1,0 +1,25 @@
+
+*Presentation.Service.StorageService.Init()A
+7D:\Vidu\src\Vidu\Presentation\Service\StorageService.cs ("0*Ê
+0A
+7D:\Vidu\src\Vidu\Presentation\Service\StorageService.cs (3ï
+ì
+A
+7D:\Vidu\src\Vidu\Presentation\Service\StorageService.cs (3
+%0-Openvidu.Net.Aspnet.Contract.IOpenViduService"__id*l*j%
+#Presentation.Service.StorageService"A
+_openViduService-Openvidu.Net.Aspnet.Contract.IOpenViduServiceŠ‡
+A
+7D:\Vidu\src\Vidu\Presentation\Service\StorageService.cs (4
+
+%1void"‘Openvidu.Net.Aspnet.Contract.IOpenViduService.RegisterHandler(System.Func<Openvidu.Net.Aspnet.Event.OpenViduEvent, System.Threading.Tasks.Task>?)*5
+3
+%0-Openvidu.Net.Aspnet.Contract.IOpenViduService*
+""2cRegisterHandler(System.Func<Openvidu.Net.Aspnet.Event.OpenViduEvent, System.Threading.Tasks.Task>?)*
+1* 
+1A
+7D:\Vidu\src\Vidu\Presentation\Service\StorageService.cs ("X
+A
+7D:\Vidu\src\Vidu\Presentation\Service\StorageService.cs (
+implicit returnB'%
+#Presentation.Service.StorageService

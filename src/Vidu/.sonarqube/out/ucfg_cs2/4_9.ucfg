@@ -1,0 +1,52 @@
+
+YPresentation.Controllers.ApiController.SaveEvent(Openvidu.Net.Aspnet.Event.OpenViduEvent)C
+9D:\Vidu\src\Vidu\Presentation\Controllers\ApiContoller.cs ("0*¾
+
+0C
+9D:\Vidu\src\Vidu\Presentation\Controllers\ApiContoller.cs (!÷
+ô
+C
+9D:\Vidu\src\Vidu\Presentation\Controllers\ApiContoller.cs (9
+%03Microsoft.Extensions.Logging.ILogger<TCategoryName>"__id*l*j(
+&Presentation.Controllers.ApiController">
+_logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>»
+¸
+C
+9D:\Vidu\src\Vidu\Presentation\Controllers\ApiContoller.cs ((
+%1string"0Openvidu.Net.Aspnet.Event.OpenViduEvent.Json.get*1
+/
+data'Openvidu.Net.Aspnet.Event.OpenViduEventÛ
+Ø
+C
+9D:\Vidu\src\Vidu\Presentation\Controllers\ApiContoller.cs ()
+
+%2void"}Microsoft.Extensions.Logging.LoggerExtensions.LogInformation(Microsoft.Extensions.Logging.ILogger, string?, params object?[])*1"/
+-Microsoft.Extensions.Logging.LoggerExtensions*;
+9
+%03Microsoft.Extensions.Logging.ILogger<TCategoryName>*
+
+%1string*
+""³
+°
+C
+9D:\Vidu\src\Vidu\Presentation\Controllers\ApiContoller.cs (<
+
+%3void"+System.Diagnostics.Debug.WriteLine(string?)*"
+System.Diagnostics.Debug*
+Yessssssssssss»
+¸
+C
+9D:\Vidu\src\Vidu\Presentation\Controllers\ApiContoller.cs (!!
+%4System.Threading.Tasks.Task"-System.Threading.Tasks.Task.CompletedTask.get*"
+System.Threading.Tasks.Task"j
+C
+9D:\Vidu\src\Vidu\Presentation\Controllers\ApiContoller.cs ("#
+!
+%4System.Threading.Tasks.Task*¤
+1C
+9D:\Vidu\src\Vidu\Presentation\Controllers\ApiContoller.cs ("Z
+C
+9D:\Vidu\src\Vidu\Presentation\Controllers\ApiContoller.cs (
+implicit return:/
+data'Openvidu.Net.Aspnet.Event.OpenViduEventB*(
+&Presentation.Controllers.ApiController

@@ -1,0 +1,4 @@
+Ø
+&Presentation.Controllers.ApiController'Microsoft.AspNetCore.Mvc.ControllerBaseobject¡
+äApiController(Microsoft.Extensions.Logging.ILogger<Presentation.Controllers.ApiController>, Openvidu.Net.Aspnet.Contract.IOpenViduService)±Presentation.Controllers.ApiController.ApiController(Microsoft.Extensions.Logging.ILogger<Presentation.Controllers.ApiController>, Openvidu.Net.Aspnet.Contract.IOpenViduService)è
+2SaveEvent(Openvidu.Net.Aspnet.Event.OpenViduEvent)YPresentation.Controllers.ApiController.SaveEvent(Openvidu.Net.Aspnet.Event.OpenViduEvent)

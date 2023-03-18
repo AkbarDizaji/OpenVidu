@@ -1,0 +1,31 @@
+
+BDomain.Session.Session.RemoveConnection(Domain.Session.Connection)4
+*D:\Vidu\src\Vidu\Domain\Session\Session.cs@ @(#"0*„
+04
+*D:\Vidu\src\Vidu\Domain\Session\Session.csB C(§
+¤
+4
+*D:\Vidu\src\Vidu\Domain\Session\Session.csB B((
+%0"System.Collections.Generic.List<T>"&Domain.Session.Session.Connections.get*
+Domain.Session.SessionÊ
+Ç
+4
+*D:\Vidu\src\Vidu\Domain\Session\Session.csB B(&
+
+%1bool",System.Collections.Generic.List<T>.Remove(T)**
+(
+%0"System.Collections.Generic.List<T>*)
+'
+
+connectionDomain.Session.Connection"R
+4
+*D:\Vidu\src\Vidu\Domain\Session\Session.csC C(
+Domain.Session.Session*†
+14
+*D:\Vidu\src\Vidu\Domain\Session\Session.csD D("K
+4
+*D:\Vidu\src\Vidu\Domain\Session\Session.csD D(
+implicit return:'
+
+connectionDomain.Session.ConnectionB
+Domain.Session.Session

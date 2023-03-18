@@ -1,0 +1,52 @@
+
+IWebHookReceivers.WebApiConfig.Register(System.Web.Http.HttpConfiguration)A
+7D:\Vidu\src\Vidu\Presentation\App_Start\WebApiConfig.cs (#"0*¨
+0A
+7D:\Vidu\src\Vidu\Presentation\App_Start\WebApiConfig.cs (9™
+–
+A
+7D:\Vidu\src\Vidu\Presentation\App_Start\WebApiConfig.cs (+
+
+%0void"eSystem.Web.Http.HttpConfigurationExtensions.MapHttpAttributeRoutes(System.Web.Http.HttpConfiguration)*/"-
++System.Web.Http.HttpConfigurationExtensions*-
++
+config!System.Web.Http.HttpConfigurationÎ
+Ë
+A
+7D:\Vidu\src\Vidu\Presentation\App_Start\WebApiConfig.cs ()
+%1#System.Web.Http.HttpRouteCollection",System.Web.Http.HttpConfiguration.Routes.get*-
++
+config!System.Web.Http.HttpConfigurationÄ
+Á
+A
+7D:\Vidu\src\Vidu\Presentation\App_Start\WebApiConfig.cs% (<$
+%2System.Web.Http.RouteParameter"__id*P*N 
+System.Web.Http.RouteParameter"*
+OptionalSystem.Web.Http.RouteParameterü
+ù
+A
+7D:\Vidu\src\Vidu\Presentation\App_Start\WebApiConfig.cs ((
+%3"System.Web.Http.Routing.IHttpRoute"wSystem.Web.Http.HttpRouteCollectionExtensions.MapHttpRoute(System.Web.Http.HttpRouteCollection, string, string, object)*1"/
+-System.Web.Http.HttpRouteCollectionExtensions*+
+)
+%1#System.Web.Http.HttpRouteCollection*
+
+DefaultApi*
+api/{controller}/{id}*
+""§
+¤
+A
+7D:\Vidu\src\Vidu\Presentation\App_Start\WebApiConfig.cs (9
+
+%4void"sSystem.Web.Http.HttpConfigurationExtensions.InitializeReceiveGenericJsonWebHooks(System.Web.Http.HttpConfiguration)*/"-
++System.Web.Http.HttpConfigurationExtensions*-
++
+config!System.Web.Http.HttpConfiguration*
+1* 
+1A
+7D:\Vidu\src\Vidu\Presentation\App_Start\WebApiConfig.cs	 (	"X
+A
+7D:\Vidu\src\Vidu\Presentation\App_Start\WebApiConfig.cs (	
+implicit return:+
+config!System.Web.Http.HttpConfigurationB!"
+WebHookReceivers.WebApiConfig

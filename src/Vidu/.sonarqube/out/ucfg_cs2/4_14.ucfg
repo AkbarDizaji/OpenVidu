@@ -1,0 +1,119 @@
+
+‡Presentation.Controllers.SessionController.CreateSession(Application.Commands.CreateSessionCommand, System.Threading.CancellationToken)H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs! !(#"2*±
+0H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs$	 $(7Ï
+Ì
+H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs$ $(
+%0MediatR.IMediator"7Presentation.Controllers.SessionController.Mediator.get*.,
+*Presentation.Controllers.SessionController»¸
+H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs$ $(8*
+%1$System.Threading.Tasks.Task<TResult>"`MediatR.ISender.Send<TResponse>(MediatR.IRequest<TResponse>, System.Threading.CancellationToken)*
+
+%0MediatR.IMediator*6
+4
+request)Application.Commands.CreateSessionCommand*9
+7
+cancellationToken"System.Threading.CancellationToken2PSend<TResponse>(MediatR.IRequest<TResponse>, System.Threading.CancellationToken)"R
+H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs$	 $(8
+""*®
+1H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs$9 $(9"_
+H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs$8 $(9
+implicit return*“
+2H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs$ $(Ô
+Ñ
+H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs! !(#
+%2"__entrypoint*6
+4
+request)Application.Commands.CreateSessionCommand*9
+7
+cancellationToken"System.Threading.CancellationTokenÛ
+Ø
+H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs"	 "(
+%3"
+__annotate*B@
+>Microsoft.AspNetCore.Mvc.FromBodyAttribute.FromBodyAttribute()*6
+4
+request)Application.Commands.CreateSessionCommandÛ
+Ø
+H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs (
+%4"
+__annotate*B@
+>Microsoft.AspNetCore.Mvc.HttpPostAttribute.HttpPostAttribute()*6
+4
+request)Application.Commands.CreateSessionCommandö
+ó
+H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs (
+%5"
+__annotate*][
+YMicrosoft.AspNetCore.Mvc.ProducesResponseTypeAttribute.ProducesResponseTypeAttribute(int)*6
+4
+request)Application.Commands.CreateSessionCommandö
+ó
+H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs   (
+%6"
+__annotate*][
+YMicrosoft.AspNetCore.Mvc.ProducesResponseTypeAttribute.ProducesResponseTypeAttribute(int)*6
+4
+request)Application.Commands.CreateSessionCommand±
+®
+H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs" "(/4
+request)Application.Commands.CreateSessionCommand"__annotation*
+
+%3*
+
+%4*
+
+%5*
+
+%6Þ
+Û
+H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs (
+%7"
+__annotate*B@
+>Microsoft.AspNetCore.Mvc.HttpPostAttribute.HttpPostAttribute()*9
+7
+cancellationToken"System.Threading.CancellationTokenù
+ö
+H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs (
+%8"
+__annotate*][
+YMicrosoft.AspNetCore.Mvc.ProducesResponseTypeAttribute.ProducesResponseTypeAttribute(int)*9
+7
+cancellationToken"System.Threading.CancellationTokenù
+ö
+H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs   (
+%9"
+__annotate*][
+YMicrosoft.AspNetCore.Mvc.ProducesResponseTypeAttribute.ProducesResponseTypeAttribute(int)*9
+7
+cancellationToken"System.Threading.CancellationToken¬
+©
+H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs# #(+7
+cancellationToken"System.Threading.CancellationToken"__annotation*
+
+%7*
+
+%8*
+
+%9*
+0:4
+request)Application.Commands.CreateSessionCommand:7
+cancellationToken"System.Threading.CancellationTokenB.,
+*Presentation.Controllers.SessionController

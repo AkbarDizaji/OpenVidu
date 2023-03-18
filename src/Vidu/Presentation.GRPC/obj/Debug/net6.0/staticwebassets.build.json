@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CCtEDwNL4BHWmzULpiE6imTiWsXNHDCGF7qdWSe18SE=",
+  "Source": "Presentation.GRPC",
+  "BasePath": "_content/Presentation.GRPC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0XvlJcT78EPPTrAs0YsYKs6To8CuDDdqaGltj3L1HWpCaMJh8Yx+E0QEqy2t57PeOoAcwRSvj1sYNMXt5mO4MA==",
+  "success": true,
+  "projectFilePath": "D:\\Vidu\\src\\Vidu\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "D:\\Users\\A.dizaji\\.nuget\\packages\\dawn.guard\\1.12.0\\dawn.guard.1.12.0.nupkg.sha512",
+    "D:\\Users\\A.dizaji\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

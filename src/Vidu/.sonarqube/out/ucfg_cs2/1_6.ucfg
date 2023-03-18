@@ -1,0 +1,61 @@
+
+iInfrastructure.Persistance.PersistService.GetSessionAsyncById(string, System.Threading.CancellationToken)G
+=D:\Vidu\src\Vidu\Infrastructure\Persistance\PersistService.cs"# "(6"0*þ
+0G
+=D:\Vidu\src\Vidu\Infrastructure\Persistance\PersistService.cs$ &(/Ü
+Ù
+G
+=D:\Vidu\src\Vidu\Infrastructure\Persistance\PersistService.cs$ $(17
+%01MongoDB.Driver.FilterDefinitionBuilder<TDocument>"-MongoDB.Driver.Builders<TDocument>.Filter.get*&"$
+"MongoDB.Driver.Builders<TDocument>Ü
+Ù
+G
+=D:\Vidu\src\Vidu\Infrastructure\Persistance\PersistService.cs$ $(C0
+%1*MongoDB.Driver.FilterDefinition<TDocument>"ˆMongoDB.Driver.FilterDefinitionBuilder<TDocument>.Eq<TField>(System.Linq.Expressions.Expression<System.Func<TDocument, TField>>, TField)*9
+7
+%01MongoDB.Driver.FilterDefinitionBuilder<TDocument>*
+""*
+
+Idstring¼
+¹
+G
+=D:\Vidu\src\Vidu\Infrastructure\Persistance\PersistService.cs$ $(C4
+filter*MongoDB.Driver.FilterDefinition<TDocument>"__id*2
+0
+%1*MongoDB.Driver.FilterDefinition<TDocument>ï
+ì
+G
+=D:\Vidu\src\Vidu\Infrastructure\Persistance\PersistService.cs& &(#0
+%2*MongoDB.Driver.IMongoCollection<TDocument>"__id*i*g+
+)Infrastructure.Persistance.PersistService"8
+
+collection*MongoDB.Driver.IMongoCollection<TDocument>Ù
+Ö
+G
+=D:\Vidu\src\Vidu\Infrastructure\Persistance\PersistService.cs& &(08
+%32MongoDB.Driver.IFindFluent<TDocument, TProjection>"­MongoDB.Driver.IMongoCollectionExtensions.Find<TDocument>(MongoDB.Driver.IMongoCollection<TDocument>, MongoDB.Driver.FilterDefinition<TDocument>, MongoDB.Driver.FindOptions)*-"+
+)MongoDB.Driver.IMongoCollectionExtensions*2
+0
+%2*MongoDB.Driver.IMongoCollection<TDocument>*6
+4
+filter*MongoDB.Driver.FilterDefinition<TDocument>*
+""‘
+Ž
+G
+=D:\Vidu\src\Vidu\Infrastructure\Persistance\PersistService.cs& &(F*
+%4$System.Threading.Tasks.Task<TResult>"¨MongoDB.Driver.IFindFluentExtensions.FirstOrDefaultAsync<TDocument, TProjection>(MongoDB.Driver.IFindFluent<TDocument, TProjection>, System.Threading.CancellationToken)*("&
+$MongoDB.Driver.IFindFluentExtensions*:
+8
+%32MongoDB.Driver.IFindFluent<TDocument, TProjection>*
+"""Q
+G
+=D:\Vidu\src\Vidu\Infrastructure\Persistance\PersistService.cs& &(G
+""*¬
+1G
+=D:\Vidu\src\Vidu\Infrastructure\Persistance\PersistService.cs'	 '(	"^
+G
+=D:\Vidu\src\Vidu\Infrastructure\Persistance\PersistService.cs' '(	
+implicit return:
+Idstring:7
+cancellationToken"System.Threading.CancellationTokenB-+
+)Infrastructure.Persistance.PersistService

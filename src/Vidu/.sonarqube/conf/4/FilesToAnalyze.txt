@@ -1,0 +1,16 @@
+﻿D:\Vidu\src\Vidu\Presentation\App_Start\WebApiConfig.cs
+D:\Vidu\src\Vidu\Presentation\Controllers\ApiContoller.cs
+D:\Vidu\src\Vidu\Presentation\Controllers\ConnectionController.cs
+D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs
+D:\Vidu\src\Vidu\Presentation\GlobalUsing.cs
+D:\Vidu\src\Vidu\Presentation\Program.cs
+D:\Vidu\src\Vidu\Presentation\Service\StorageService.cs
+D:\Vidu\src\Vidu\Presentation\obj\Debug\net6.0\Presentation.GlobalUsings.g.cs
+D:\Vidu\src\Vidu\Presentation\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+D:\Vidu\src\Vidu\Presentation\obj\Debug\net6.0\Presentation.AssemblyInfo.cs
+D:\Vidu\src\Vidu\Presentation\obj\Debug\net6.0\Presentation.MvcApplicationPartsAssemblyInfo.cs
+D:\Vidu\src\Vidu\Presentation\appsettings.Development.json
+D:\Vidu\src\Vidu\Presentation\appsettings.json
+D:\Vidu\src\Vidu\Presentation\Dockerfile
+D:\Vidu\src\Vidu\Presentation\Properties\launchSettings.json
+D:\Vidu\src\Vidu\.dockerignore

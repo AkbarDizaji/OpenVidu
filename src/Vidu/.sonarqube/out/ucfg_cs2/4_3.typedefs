@@ -1,0 +1,7 @@
+¥
+#Presentation.Service.StorageServiceobject¢
+=StorageService(Openvidu.Net.Aspnet.Contract.IOpenViduService)aPresentation.Service.StorageService.StorageService(Openvidu.Net.Aspnet.Contract.IOpenViduService)Ž
+3StoreEvent(Openvidu.Net.Aspnet.Event.OpenViduEvent)WPresentation.Service.StorageService.StoreEvent(Openvidu.Net.Aspnet.Event.OpenViduEvent)4
+Init()*Presentation.Service.StorageService.Init()„
+.StartAsync(System.Threading.CancellationToken)RPresentation.Service.StorageService.StartAsync(System.Threading.CancellationToken)‚
+-StopAsync(System.Threading.CancellationToken)QPresentation.Service.StorageService.StopAsync(System.Threading.CancellationToken)

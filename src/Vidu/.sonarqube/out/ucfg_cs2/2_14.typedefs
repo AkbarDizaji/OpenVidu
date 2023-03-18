@@ -1,0 +1,11 @@
+þ
+'Presentation.GRPC.Greeter.GreeterClientGrpc.Core.ClientBase<T>Grpc.Core.ClientBaseobjectt
+$GreeterClient(Grpc.Core.ChannelBase)LPresentation.GRPC.Greeter.GreeterClient.GreeterClient(Grpc.Core.ChannelBase)t
+$GreeterClient(Grpc.Core.CallInvoker)LPresentation.GRPC.Greeter.GreeterClient.GreeterClient(Grpc.Core.CallInvoker)J
+GreeterClient()7Presentation.GRPC.Greeter.GreeterClient.GreeterClient()¢
+;GreeterClient(Grpc.Core.ClientBase.ClientBaseConfiguration)cPresentation.GRPC.Greeter.GreeterClient.GreeterClient(Grpc.Core.ClientBase.ClientBaseConfiguration)´
+ƒSendSessionCreate(Presentation.GRPC.CreateSessionRequest, Grpc.Core.Metadata, System.DateTime?, System.Threading.CancellationToken)«Presentation.GRPC.Greeter.GreeterClient.SendSessionCreate(Presentation.GRPC.CreateSessionRequest, Grpc.Core.Metadata, System.DateTime?, System.Threading.CancellationToken)Ì
+PSendSessionCreate(Presentation.GRPC.CreateSessionRequest, Grpc.Core.CallOptions)xPresentation.GRPC.Greeter.GreeterClient.SendSessionCreate(Presentation.GRPC.CreateSessionRequest, Grpc.Core.CallOptions)¾
+ˆSendSessionCreateAsync(Presentation.GRPC.CreateSessionRequest, Grpc.Core.Metadata, System.DateTime?, System.Threading.CancellationToken)°Presentation.GRPC.Greeter.GreeterClient.SendSessionCreateAsync(Presentation.GRPC.CreateSessionRequest, Grpc.Core.Metadata, System.DateTime?, System.Threading.CancellationToken)Ö
+USendSessionCreateAsync(Presentation.GRPC.CreateSessionRequest, Grpc.Core.CallOptions)}Presentation.GRPC.Greeter.GreeterClient.SendSessionCreateAsync(Presentation.GRPC.CreateSessionRequest, Grpc.Core.CallOptions)ž
+9NewInstance(Grpc.Core.ClientBase.ClientBaseConfiguration)aPresentation.GRPC.Greeter.GreeterClient.NewInstance(Grpc.Core.ClientBase.ClientBaseConfiguration)

@@ -1,0 +1,87 @@
+
+†Application.Commands.CreateSessionCommandHandler.Handle(Application.Commands.CreateSessionCommand, System.Threading.CancellationToken)G
+=D:\Vidu\src\Vidu\Application\Commands\CreateSessionCommand.cs" (("0*Œ
+0G
+=D:\Vidu\src\Vidu\Application\Commands\CreateSessionCommand.cs (.ä
+á
+G
+=D:\Vidu\src\Vidu\Application\Commands\CreateSessionCommand.cs (#&
+%0 Infrastructure.GRPC.IGRPCService"__id*h*f2
+0Application.Commands.CreateSessionCommandHandler"0
+_grpcService Infrastructure.GRPC.IGRPCServiceÑÎ
+G
+=D:\Vidu\src\Vidu\Application\Commands\CreateSessionCommand.cs (0
+%1Domain.Session.Session"-Infrastructure.GRPC.IGRPCService.SendCreate()*(
+&
+%0 Infrastructure.GRPC.IGRPCService2SendCreate()•
+’
+G
+=D:\Vidu\src\Vidu\Application\Commands\CreateSessionCommand.cs (0!
+sessionDomain.Session.Session"__id*
+
+%1Domain.Session.Sessionå
+â
+G
+=D:\Vidu\src\Vidu\Application\Commands\CreateSessionCommand.cs (.(
+%2"System.Collections.Generic.List<T>"5Application.Commands.CreateSessionCommand.UserIds.get*6
+4
+request)Application.Commands.CreateSessionCommand*
+1*T
+1G
+=D:\Vidu\src\Vidu\Application\Commands\CreateSessionCommand.cs% %(*
+2
+3*¡
+2G
+=D:\Vidu\src\Vidu\Application\Commands\CreateSessionCommand.cs ($Í
+Ê
+G
+=D:\Vidu\src\Vidu\Application\Commands\CreateSessionCommand.cs (%
+%3Domain.Session.Session"(Domain.Session.Session.AddUserId(string)*#
+!
+sessionDomain.Session.Session*
+
+userIdstring*
+1*Ñ
+
+3G
+=D:\Vidu\src\Vidu\Application\Commands\CreateSessionCommand.cs" $(.‡
+„
+G
+=D:\Vidu\src\Vidu\Application\Commands\CreateSessionCommand.cs" "(!4
+%4.Infrastructure.Persistance.IPersistanceService"__id*}*{2
+0Application.Commands.CreateSessionCommandHandler"E
+_persistanceService.Infrastructure.Persistance.IPersistanceService¾»
+G
+=D:\Vidu\src\Vidu\Application\Commands\CreateSessionCommand.cs" "(D!
+%5System.Threading.Tasks.Task"qInfrastructure.Persistance.IPersistanceService.Insert(Domain.Session.Session, System.Threading.CancellationToken)*6
+4
+%4.Infrastructure.Persistance.IPersistanceService*#
+!
+sessionDomain.Session.Session*9
+7
+cancellationToken"System.Threading.CancellationToken2BInsert(Domain.Session.Session, System.Threading.CancellationToken)Ã
+À
+G
+=D:\Vidu\src\Vidu\Application\Commands\CreateSessionCommand.cs$ $(
+%6AutoMapper.IMapper"__id*U*S2
+0Application.Commands.CreateSessionCommandHandler"
+_mapperAutoMapper.IMapperÿü
+G
+=D:\Vidu\src\Vidu\Application\Commands\CreateSessionCommand.cs$ $(/#
+%7Application.Models.SessionDto"0AutoMapper.IMapperBase.Map<TDestination>(object)*
+
+%6AutoMapper.IMapper*#
+!
+sessionDomain.Session.Session2Map<TDestination>(object)"p
+G
+=D:\Vidu\src\Vidu\Application\Commands\CreateSessionCommand.cs$ $(0%
+#
+%7Application.Models.SessionDto*¬
+4G
+=D:\Vidu\src\Vidu\Application\Commands\CreateSessionCommand.cs% %("^
+G
+=D:\Vidu\src\Vidu\Application\Commands\CreateSessionCommand.cs% %(
+implicit return:4
+request)Application.Commands.CreateSessionCommand:7
+cancellationToken"System.Threading.CancellationTokenB42
+0Application.Commands.CreateSessionCommandHandler

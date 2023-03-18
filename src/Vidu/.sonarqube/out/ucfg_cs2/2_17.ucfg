@@ -1,0 +1,115 @@
+
+†Application.Commands.UpdateSessionCommandHandler.Handle(Application.Commands.UpdateSessionCommand, System.Threading.CancellationToken)G
+=D:\Vidu\src\Vidu\Application\Commands\UpdateSessionCommand.cs (%"0*Š
+
+0G
+=D:\Vidu\src\Vidu\Application\Commands\UpdateSessionCommand.cs (‡
+„
+G
+=D:\Vidu\src\Vidu\Application\Commands\UpdateSessionCommand.cs (/4
+%0.Infrastructure.Persistance.IPersistanceService"__id*}*{2
+0Application.Commands.UpdateSessionCommandHandler"E
+_persistanceService.Infrastructure.Persistance.IPersistanceServiceÄ
+Á
+G
+=D:\Vidu\src\Vidu\Application\Commands\UpdateSessionCommand.cs! (+
+%1string"0Application.Commands.UpdateSessionCommand.Id.get*6
+4
+request)Application.Commands.UpdateSessionCommand¬©
+G
+=D:\Vidu\src\Vidu\Application\Commands\UpdateSessionCommand.cs (?*
+%2$System.Threading.Tasks.Task<TResult>"nInfrastructure.Persistance.IPersistanceService.GetSessionAsyncById(string, System.Threading.CancellationToken)*6
+4
+%0.Infrastructure.Persistance.IPersistanceService*
+
+%1string*9
+7
+cancellationToken"System.Threading.CancellationToken2?GetSessionAsyncById(string, System.Threading.CancellationToken)|
+z
+G
+=D:\Vidu\src\Vidu\Application\Commands\UpdateSessionCommand.cs (?!
+sessionDomain.Session.Session"__id*
+""µ
+²
+G
+=D:\Vidu\src\Vidu\Application\Commands\UpdateSessionCommand.cs (
+
+%3bool""object.operator ==(object, object)*
+"
+object*#
+!
+sessionDomain.Session.Session*
+""*
+1
+2*¬
+1G
+=D:\Vidu\src\Vidu\Application\Commands\UpdateSessionCommand.cs (fus
+G
+=D:\Vidu\src\Vidu\Application\Commands\UpdateSessionCommand.cs (g
+%4System.Exception"System.Exceptioná
+Þ
+G
+=D:\Vidu\src\Vidu\Application\Commands\UpdateSessionCommand.cs (
+
+%5void"#System.Exception.Exception(string?)*
+
+%4System.Exception*HF
+DThe session does not exist or this userId isn't allowded participant*
+3*¬
+2G
+=D:\Vidu\src\Vidu\Application\Commands\UpdateSessionCommand.cs (Ç
+Ä
+G
+=D:\Vidu\src\Vidu\Application\Commands\UpdateSessionCommand.cs3 (C	
+%6int"6Application.Commands.UpdateSessionCommand.Duration.get*6
+4
+request)Application.Commands.UpdateSessionCommandÈ
+Å
+G
+=D:\Vidu\src\Vidu\Application\Commands\UpdateSessionCommand.csE (S
+%7string"4Application.Commands.UpdateSessionCommand.Reason.get*6
+4
+request)Application.Commands.UpdateSessionCommandß
+Ü
+G
+=D:\Vidu\src\Vidu\Application\Commands\UpdateSessionCommand.cs (T
+%8Domain.Session.Session"1Domain.Session.Session.AddClosedInfo(int, string)*#
+!
+sessionDomain.Session.Session*
+	
+%6int*
+
+%7stringœ
+™
+G
+=D:\Vidu\src\Vidu\Application\Commands\UpdateSessionCommand.cs (T(
+updatedSessionDomain.Session.Session"__id*
+
+%8Domain.Session.Session‡
+„
+G
+=D:\Vidu\src\Vidu\Application\Commands\UpdateSessionCommand.cs (!4
+%9.Infrastructure.Persistance.IPersistanceService"__id*}*{2
+0Application.Commands.UpdateSessionCommandHandler"E
+_persistanceService.Infrastructure.Persistance.IPersistanceServiceÆÃ
+G
+=D:\Vidu\src\Vidu\Application\Commands\UpdateSessionCommand.cs (K"
+%10System.Threading.Tasks.Task"qInfrastructure.Persistance.IPersistanceService.Update(Domain.Session.Session, System.Threading.CancellationToken)*6
+4
+%9.Infrastructure.Persistance.IPersistanceService**
+(
+updatedSessionDomain.Session.Session*9
+7
+cancellationToken"System.Threading.CancellationToken2BUpdate(Domain.Session.Session, System.Threading.CancellationToken)"u
+G
+=D:\Vidu\src\Vidu\Application\Commands\UpdateSessionCommand.cs (*
+(
+updatedSessionDomain.Session.Session*¬
+3G
+=D:\Vidu\src\Vidu\Application\Commands\UpdateSessionCommand.cs   ("^
+G
+=D:\Vidu\src\Vidu\Application\Commands\UpdateSessionCommand.cs   (
+implicit return:4
+request)Application.Commands.UpdateSessionCommand:7
+cancellationToken"System.Threading.CancellationTokenB42
+0Application.Commands.UpdateSessionCommandHandler

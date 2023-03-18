@@ -1,0 +1,1233 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "4.0.0.0",
+        "fileVersion": "4.0.0-6.21526.21 (c7d6f9fa)",
+        "semanticVersion": "4.0.0",
+        "language": "en-US"
+      },
+      "results": [
+        {
+          "ruleId": "CS0436",
+          "level": "warning",
+          "message": "The type 'Greeter' in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\GreetGrpc.cs' conflicts with the imported type 'Greeter' in 'Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. Using the type defined in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\GreetGrpc.cs'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Vidu/src/Vidu/Presentation.GRPC/Services/GreeterService.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 35,
+                  "endLine": 8,
+                  "endColumn": 42
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0436",
+          "level": "warning",
+          "message": "The type 'CreateSessionReply' in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs' conflicts with the imported type 'CreateSessionReply' in 'Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. Using the type defined in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Vidu/src/Vidu/Presentation.GRPC/obj/Debug/net6.0/Protos/Greet.cs",
+                "region": {
+                  "startLine": 188,
+                  "startColumn": 65,
+                  "endLine": 188,
+                  "endColumn": 83
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0436",
+          "level": "warning",
+          "message": "The type 'CreateSessionRequest' in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs' conflicts with the imported type 'CreateSessionRequest' in 'Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. Using the type defined in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Vidu/src/Vidu/Presentation.GRPC/obj/Debug/net6.0/Protos/Greet.cs",
+                "region": {
+                  "startLine": 49,
+                  "startColumn": 67,
+                  "endLine": 49,
+                  "endColumn": 87
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0436",
+          "level": "warning",
+          "message": "The type 'CreateSessionRequest' in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs' conflicts with the imported type 'CreateSessionRequest' in 'Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. Using the type defined in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Vidu/src/Vidu/Presentation.GRPC/obj/Debug/net6.0/Protos/GreetGrpc.cs",
+                "region": {
+                  "startLine": 81,
+                  "startColumn": 148,
+                  "endLine": 81,
+                  "endColumn": 168
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0436",
+          "level": "warning",
+          "message": "The type 'CreateSessionReply' in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs' conflicts with the imported type 'CreateSessionReply' in 'Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. Using the type defined in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Vidu/src/Vidu/Presentation.GRPC/obj/Debug/net6.0/Protos/GreetGrpc.cs",
+                "region": {
+                  "startLine": 81,
+                  "startColumn": 84,
+                  "endLine": 81,
+                  "endColumn": 102
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0436",
+          "level": "warning",
+          "message": "The type 'CreateSessionRequest' in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs' conflicts with the imported type 'CreateSessionRequest' in 'Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. Using the type defined in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Vidu/src/Vidu/Presentation.GRPC/Services/GreeterService.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 68,
+                  "endLine": 11,
+                  "endColumn": 88
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0436",
+          "level": "warning",
+          "message": "The type 'CreateSessionReply' in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs' conflicts with the imported type 'CreateSessionReply' in 'Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. Using the type defined in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Vidu/src/Vidu/Presentation.GRPC/Services/GreeterService.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 30,
+                  "endLine": 11,
+                  "endColumn": 48
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0436",
+          "level": "warning",
+          "message": "The type 'CreateSessionRequest' in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs' conflicts with the imported type 'CreateSessionRequest' in 'Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. Using the type defined in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Vidu/src/Vidu/Presentation.GRPC/obj/Debug/net6.0/Protos/Greet.cs",
+                "region": {
+                  "startLine": 57,
+                  "startColumn": 37,
+                  "endLine": 57,
+                  "endColumn": 57
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0436",
+          "level": "warning",
+          "message": "The type 'CreateSessionReply' in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs' conflicts with the imported type 'CreateSessionReply' in 'Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. Using the type defined in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Vidu/src/Vidu/Presentation.GRPC/obj/Debug/net6.0/Protos/Greet.cs",
+                "region": {
+                  "startLine": 196,
+                  "startColumn": 37,
+                  "endLine": 196,
+                  "endColumn": 55
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0436",
+          "level": "warning",
+          "message": "The type 'CreateSessionRequest' in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs' conflicts with the imported type 'CreateSessionRequest' in 'Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. Using the type defined in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Vidu/src/Vidu/Presentation.GRPC/obj/Debug/net6.0/Protos/Greet.cs",
+                "region": {
+                  "startLine": 82,
+                  "startColumn": 12,
+                  "endLine": 82,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0436",
+          "level": "warning",
+          "message": "The type 'CreateSessionReply' in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs' conflicts with the imported type 'CreateSessionReply' in 'Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. Using the type defined in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Vidu/src/Vidu/Presentation.GRPC/obj/Debug/net6.0/Protos/Greet.cs",
+                "region": {
+                  "startLine": 227,
+                  "startColumn": 12,
+                  "endLine": 227,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0436",
+          "level": "warning",
+          "message": "The type 'Greeter' in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\GreetGrpc.cs' conflicts with the imported type 'Greeter' in 'Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. Using the type defined in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\GreetGrpc.cs'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Vidu/src/Vidu/Presentation.GRPC/obj/Debug/net6.0/Protos/GreetGrpc.cs",
+                "region": {
+                  "startLine": 71,
+                  "startColumn": 37,
+                  "endLine": 71,
+                  "endColumn": 44
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0436",
+          "level": "warning",
+          "message": "The type 'CreateSessionRequest' in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs' conflicts with the imported type 'CreateSessionRequest' in 'Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. Using the type defined in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Vidu/src/Vidu/Presentation.GRPC/obj/Debug/net6.0/Protos/Greet.cs",
+                "region": {
+                  "startLine": 92,
+                  "startColumn": 24,
+                  "endLine": 92,
+                  "endColumn": 44
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0436",
+          "level": "warning",
+          "message": "The type 'CreateSessionReply' in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs' conflicts with the imported type 'CreateSessionReply' in 'Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. Using the type defined in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Vidu/src/Vidu/Presentation.GRPC/obj/Debug/net6.0/Protos/Greet.cs",
+                "region": {
+                  "startLine": 303,
+                  "startColumn": 24,
+                  "endLine": 303,
+                  "endColumn": 42
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0436",
+          "level": "warning",
+          "message": "The type 'CreateSessionRequest' in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs' conflicts with the imported type 'CreateSessionRequest' in 'Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. Using the type defined in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Vidu/src/Vidu/Presentation.GRPC/obj/Debug/net6.0/Protos/GreetGrpc.cs",
+                "region": {
+                  "startLine": 52,
+                  "startColumn": 64,
+                  "endLine": 52,
+                  "endColumn": 84
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0436",
+          "level": "warning",
+          "message": "The type 'CreateSessionReply' in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs' conflicts with the imported type 'CreateSessionReply' in 'Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. Using the type defined in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Vidu/src/Vidu/Presentation.GRPC/obj/Debug/net6.0/Protos/Greet.cs",
+                "region": {
+                  "startLine": 435,
+                  "startColumn": 27,
+                  "endLine": 435,
+                  "endColumn": 45
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0436",
+          "level": "warning",
+          "message": "The type 'CreateSessionReply' in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs' conflicts with the imported type 'CreateSessionReply' in 'Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. Using the type defined in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Vidu/src/Vidu/Presentation.GRPC/obj/Debug/net6.0/Protos/GreetGrpc.cs",
+                "region": {
+                  "startLine": 54,
+                  "startColumn": 64,
+                  "endLine": 54,
+                  "endColumn": 82
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0436",
+          "level": "warning",
+          "message": "The type 'CreateSessionRequest' in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs' conflicts with the imported type 'CreateSessionRequest' in 'Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. Using the type defined in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Vidu/src/Vidu/Presentation.GRPC/obj/Debug/net6.0/Protos/Greet.cs",
+                "region": {
+                  "startLine": 146,
+                  "startColumn": 27,
+                  "endLine": 146,
+                  "endColumn": 47
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0436",
+          "level": "warning",
+          "message": "The type 'CreateSessionRequest' in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs' conflicts with the imported type 'CreateSessionRequest' in 'Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. Using the type defined in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Vidu/src/Vidu/Presentation.GRPC/obj/Debug/net6.0/Protos/GreetGrpc.cs",
+                "region": {
+                  "startLine": 57,
+                  "startColumn": 60,
+                  "endLine": 57,
+                  "endColumn": 80
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0436",
+          "level": "warning",
+          "message": "The type 'CreateSessionReply' in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs' conflicts with the imported type 'CreateSessionReply' in 'Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. Using the type defined in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Vidu/src/Vidu/Presentation.GRPC/obj/Debug/net6.0/Protos/GreetGrpc.cs",
+                "region": {
+                  "startLine": 57,
+                  "startColumn": 108,
+                  "endLine": 57,
+                  "endColumn": 126
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0436",
+          "level": "warning",
+          "message": "The type 'CreateSessionReply' in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs' conflicts with the imported type 'CreateSessionReply' in 'Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. Using the type defined in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Vidu/src/Vidu/Presentation.GRPC/obj/Debug/net6.0/Protos/Greet.cs",
+                "region": {
+                  "startLine": 193,
+                  "startColumn": 47,
+                  "endLine": 193,
+                  "endColumn": 65
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0436",
+          "level": "warning",
+          "message": "The type 'CreateSessionRequest' in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs' conflicts with the imported type 'CreateSessionRequest' in 'Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. Using the type defined in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Vidu/src/Vidu/Presentation.GRPC/obj/Debug/net6.0/Protos/Greet.cs",
+                "region": {
+                  "startLine": 54,
+                  "startColumn": 47,
+                  "endLine": 54,
+                  "endColumn": 67
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0436",
+          "level": "warning",
+          "message": "The type 'CreateSessionReply' in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs' conflicts with the imported type 'CreateSessionReply' in 'Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. Using the type defined in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Vidu/src/Vidu/Presentation.GRPC/obj/Debug/net6.0/Protos/Greet.cs",
+                "region": {
+                  "startLine": 216,
+                  "startColumn": 31,
+                  "endLine": 216,
+                  "endColumn": 49
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0436",
+          "level": "warning",
+          "message": "The type 'CreateSessionRequest' in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs' conflicts with the imported type 'CreateSessionRequest' in 'Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. Using the type defined in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Vidu/src/Vidu/Presentation.GRPC/obj/Debug/net6.0/Protos/Greet.cs",
+                "region": {
+                  "startLine": 77,
+                  "startColumn": 33,
+                  "endLine": 77,
+                  "endColumn": 53
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0436",
+          "level": "warning",
+          "message": "The type 'CreateSessionRequest' in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs' conflicts with the imported type 'CreateSessionRequest' in 'Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. Using the type defined in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Vidu/src/Vidu/Presentation.GRPC/obj/Debug/net6.0/Protos/Greet.cs",
+                "region": {
+                  "startLine": 54,
+                  "startColumn": 101,
+                  "endLine": 54,
+                  "endColumn": 121
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0436",
+          "level": "warning",
+          "message": "The type 'CreateSessionReply' in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs' conflicts with the imported type 'CreateSessionReply' in 'Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. Using the type defined in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Vidu/src/Vidu/Presentation.GRPC/obj/Debug/net6.0/Protos/Greet.cs",
+                "region": {
+                  "startLine": 193,
+                  "startColumn": 99,
+                  "endLine": 193,
+                  "endColumn": 117
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0436",
+          "level": "warning",
+          "message": "The type 'CreateSessionRequest' in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs' conflicts with the imported type 'CreateSessionRequest' in 'Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. Using the type defined in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Vidu/src/Vidu/Presentation.GRPC/obj/Debug/net6.0/Protos/Greet.cs",
+                "region": {
+                  "startLine": 54,
+                  "startColumn": 133,
+                  "endLine": 54,
+                  "endColumn": 153
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0436",
+          "level": "warning",
+          "message": "The type 'CreateSessionReply' in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs' conflicts with the imported type 'CreateSessionReply' in 'Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. Using the type defined in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Vidu/src/Vidu/Presentation.GRPC/obj/Debug/net6.0/Protos/Greet.cs",
+                "region": {
+                  "startLine": 193,
+                  "startColumn": 129,
+                  "endLine": 193,
+                  "endColumn": 147
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0436",
+          "level": "warning",
+          "message": "The type 'CreateSessionRequest' in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs' conflicts with the imported type 'CreateSessionRequest' in 'Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. Using the type defined in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Vidu/src/Vidu/Presentation.GRPC/obj/Debug/net6.0/Protos/GreetGrpc.cs",
+                "region": {
+                  "startLine": 52,
+                  "startColumn": 228,
+                  "endLine": 52,
+                  "endColumn": 274
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0436",
+          "level": "warning",
+          "message": "The type 'CreateSessionReply' in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs' conflicts with the imported type 'CreateSessionReply' in 'Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. Using the type defined in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Vidu/src/Vidu/Presentation.GRPC/obj/Debug/net6.0/Protos/GreetGrpc.cs",
+                "region": {
+                  "startLine": 54,
+                  "startColumn": 224,
+                  "endLine": 54,
+                  "endColumn": 268
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0436",
+          "level": "warning",
+          "message": "The type 'CreateSessionRequest' in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs' conflicts with the imported type 'CreateSessionRequest' in 'Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. Using the type defined in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Vidu/src/Vidu/Presentation.GRPC/obj/Debug/net6.0/Protos/GreetGrpc.cs",
+                "region": {
+                  "startLine": 57,
+                  "startColumn": 200,
+                  "endLine": 57,
+                  "endColumn": 220
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0436",
+          "level": "warning",
+          "message": "The type 'CreateSessionReply' in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs' conflicts with the imported type 'CreateSessionReply' in 'Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. Using the type defined in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Vidu/src/Vidu/Presentation.GRPC/obj/Debug/net6.0/Protos/GreetGrpc.cs",
+                "region": {
+                  "startLine": 57,
+                  "startColumn": 248,
+                  "endLine": 57,
+                  "endColumn": 266
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0436",
+          "level": "warning",
+          "message": "The type 'GreetReflection' in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs' conflicts with the imported type 'GreetReflection' in 'Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. Using the type defined in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Vidu/src/Vidu/Presentation.GRPC/obj/Debug/net6.0/Protos/Greet.cs",
+                "region": {
+                  "startLine": 61,
+                  "startColumn": 20,
+                  "endLine": 61,
+                  "endColumn": 61
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0436",
+          "level": "warning",
+          "message": "The type 'GreetReflection' in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs' conflicts with the imported type 'GreetReflection' in 'Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. Using the type defined in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Vidu/src/Vidu/Presentation.GRPC/obj/Debug/net6.0/Protos/Greet.cs",
+                "region": {
+                  "startLine": 200,
+                  "startColumn": 20,
+                  "endLine": 200,
+                  "endColumn": 61
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0436",
+          "level": "warning",
+          "message": "The type 'CreateSessionReply' in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs' conflicts with the imported type 'CreateSessionReply' in 'Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. Using the type defined in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Vidu/src/Vidu/Presentation.GRPC/Services/GreeterService.cs",
+                "region": {
+                  "startLine": 31,
+                  "startColumn": 40,
+                  "endLine": 31,
+                  "endColumn": 58
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS8604",
+          "level": "warning",
+          "message": "Possible null reference argument for parameter 'json' in 'JObject JObject.Parse(string json)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Vidu/src/Vidu/Presentation.GRPC/Services/GreeterService.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 41,
+                  "endLine": 29,
+                  "endColumn": 57
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8602",
+          "level": "warning",
+          "message": "Dereference of a possibly null reference.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Vidu/src/Vidu/Presentation.GRPC/Services/GreeterService.cs",
+                "region": {
+                  "startLine": 33,
+                  "startColumn": 22,
+                  "endLine": 33,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8604",
+          "level": "warning",
+          "message": "Possible null reference argument for parameter 'value' in 'JToken.explicit operator bool(JToken value)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Vidu/src/Vidu/Presentation.GRPC/Services/GreeterService.cs",
+                "region": {
+                  "startLine": 34,
+                  "startColumn": 36,
+                  "endLine": 34,
+                  "endColumn": 56
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8602",
+          "level": "warning",
+          "message": "Dereference of a possibly null reference.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Vidu/src/Vidu/Presentation.GRPC/Services/GreeterService.cs",
+                "region": {
+                  "startLine": 35,
+                  "startColumn": 29,
+                  "endLine": 35,
+                  "endColumn": 49
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8602",
+          "level": "warning",
+          "message": "Dereference of a possibly null reference.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Vidu/src/Vidu/Presentation.GRPC/Services/GreeterService.cs",
+                "region": {
+                  "startLine": 36,
+                  "startColumn": 33,
+                  "endLine": 36,
+                  "endColumn": 57
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8602",
+          "level": "warning",
+          "message": "Dereference of a possibly null reference.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Vidu/src/Vidu/Presentation.GRPC/Services/GreeterService.cs",
+                "region": {
+                  "startLine": 37,
+                  "startColumn": 36,
+                  "endLine": 37,
+                  "endColumn": 63
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8604",
+          "level": "warning",
+          "message": "Possible null reference argument for parameter 'value' in 'JToken.explicit operator bool(JToken value)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Vidu/src/Vidu/Presentation.GRPC/Services/GreeterService.cs",
+                "region": {
+                  "startLine": 38,
+                  "startColumn": 43,
+                  "endLine": 38,
+                  "endColumn": 70
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS0436",
+          "level": "warning",
+          "message": "The type 'CreateSessionRequest' in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs' conflicts with the imported type 'CreateSessionRequest' in 'Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. Using the type defined in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Vidu/src/Vidu/Presentation.GRPC/obj/Debug/net6.0/Protos/Greet.cs",
+                "region": {
+                  "startLine": 83,
+                  "startColumn": 18,
+                  "endLine": 83,
+                  "endColumn": 38
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0436",
+          "level": "warning",
+          "message": "The type 'CreateSessionReply' in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs' conflicts with the imported type 'CreateSessionReply' in 'Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. Using the type defined in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Vidu/src/Vidu/Presentation.GRPC/obj/Debug/net6.0/Protos/Greet.cs",
+                "region": {
+                  "startLine": 228,
+                  "startColumn": 18,
+                  "endLine": 228,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0436",
+          "level": "warning",
+          "message": "The type 'CreateSessionRequest' in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs' conflicts with the imported type 'CreateSessionRequest' in 'Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. Using the type defined in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Vidu/src/Vidu/Presentation.GRPC/obj/Debug/net6.0/Protos/Greet.cs",
+                "region": {
+                  "startLine": 88,
+                  "startColumn": 30,
+                  "endLine": 88,
+                  "endColumn": 50
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0436",
+          "level": "warning",
+          "message": "The type 'GreetReflection' in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs' conflicts with the imported type 'GreetReflection' in 'Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. Using the type defined in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Vidu/src/Vidu/Presentation.GRPC/obj/Debug/net6.0/Protos/GreetGrpc.cs",
+                "region": {
+                  "startLine": 67,
+                  "startColumn": 20,
+                  "endLine": 67,
+                  "endColumn": 61
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0436",
+          "level": "warning",
+          "message": "The type 'CreateSessionRequest' in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs' conflicts with the imported type 'CreateSessionRequest' in 'Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. Using the type defined in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Vidu/src/Vidu/Presentation.GRPC/obj/Debug/net6.0/Protos/Greet.cs",
+                "region": {
+                  "startLine": 38,
+                  "startColumn": 76,
+                  "endLine": 38,
+                  "endColumn": 96
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0436",
+          "level": "warning",
+          "message": "The type 'CreateSessionRequest' in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs' conflicts with the imported type 'CreateSessionRequest' in 'Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. Using the type defined in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Vidu/src/Vidu/Presentation.GRPC/obj/Debug/net6.0/Protos/Greet.cs",
+                "region": {
+                  "startLine": 38,
+                  "startColumn": 99,
+                  "endLine": 38,
+                  "endColumn": 145
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0436",
+          "level": "warning",
+          "message": "The type 'CreateSessionReply' in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs' conflicts with the imported type 'CreateSessionReply' in 'Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. Using the type defined in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Vidu/src/Vidu/Presentation.GRPC/obj/Debug/net6.0/Protos/Greet.cs",
+                "region": {
+                  "startLine": 39,
+                  "startColumn": 76,
+                  "endLine": 39,
+                  "endColumn": 94
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0436",
+          "level": "warning",
+          "message": "The type 'CreateSessionReply' in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs' conflicts with the imported type 'CreateSessionReply' in 'Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. Using the type defined in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Vidu/src/Vidu/Presentation.GRPC/obj/Debug/net6.0/Protos/Greet.cs",
+                "region": {
+                  "startLine": 39,
+                  "startColumn": 97,
+                  "endLine": 39,
+                  "endColumn": 141
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0436",
+          "level": "warning",
+          "message": "The type 'CreateSessionReply' in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs' conflicts with the imported type 'CreateSessionReply' in 'Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. Using the type defined in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Vidu/src/Vidu/Presentation.GRPC/obj/Debug/net6.0/Protos/Greet.cs",
+                "region": {
+                  "startLine": 299,
+                  "startColumn": 30,
+                  "endLine": 299,
+                  "endColumn": 48
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0436",
+          "level": "warning",
+          "message": "The type 'CreateSessionRequest' in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs' conflicts with the imported type 'CreateSessionRequest' in 'Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. Using the type defined in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Vidu/src/Vidu/Presentation.GRPC/obj/Debug/net6.0/Protos/GreetGrpc.cs",
+                "region": {
+                  "startLine": 104,
+                  "startColumn": 142,
+                  "endLine": 104,
+                  "endColumn": 162
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0436",
+          "level": "warning",
+          "message": "The type 'CreateSessionReply' in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs' conflicts with the imported type 'CreateSessionReply' in 'Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. Using the type defined in 'D:\\Vidu\\src\\Vidu\\Presentation.GRPC\\obj\\Debug\\net6.0\\Protos\\Greet.cs'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Vidu/src/Vidu/Presentation.GRPC/obj/Debug/net6.0/Protos/GreetGrpc.cs",
+                "region": {
+                  "startLine": 104,
+                  "startColumn": 190,
+                  "endLine": 104,
+                  "endColumn": 208
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Vidu/src/Vidu/Presentation.GRPC/Services/GreeterService.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 13,
+                  "endLine": 21,
+                  "endColumn": 16
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Vidu/src/Vidu/Presentation.GRPC/Services/GreeterService.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 13,
+                  "endLine": 27,
+                  "endColumn": 96
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "CS0436": {
+          "id": "CS0436",
+          "shortDescription": "Type conflicts with imported type",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS0436)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "CS8602": {
+          "id": "CS8602",
+          "shortDescription": "Dereference of a possibly null reference.",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8602)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "CS8604": {
+          "id": "CS8604",
+          "shortDescription": "Possible null reference argument.",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8604)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "S125": {
+          "id": "S125",
+          "shortDescription": "Sections of code should not be commented out",
+          "fullDescription": "Programmers should not comment out code as it bloats programs and reduces readability.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-125",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

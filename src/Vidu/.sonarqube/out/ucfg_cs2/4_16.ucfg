@@ -1,0 +1,210 @@
+
+9Presentation.Controllers.SessionController.ViduCallBack()H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs6 6(""3*Æ
+0H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs8 B(=b
+`
+H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs8 8(
+aint"__id*2à
+Ý
+H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs: :(+
+%0%Microsoft.AspNetCore.Http.HttpContext"7Microsoft.AspNetCore.Mvc.ControllerBase.HttpContext.get*+)
+'Microsoft.AspNetCore.Mvc.ControllerBaseÜ
+Ù
+H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs: :(%+
+%1%Microsoft.AspNetCore.Http.HttpRequest"1Microsoft.AspNetCore.Http.HttpContext.Request.get*-
++
+%0%Microsoft.AspNetCore.Http.HttpContext°
+­
+H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs: :(%,
+req%Microsoft.AspNetCore.Http.HttpRequest"__id*-
++
+%1%Microsoft.AspNetCore.Http.HttpRequestÅ
+Â
+H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs<5 <(=
+%2System.IO.Stream".Microsoft.AspNetCore.Http.HttpRequest.Body.get*.
+,
+req%Microsoft.AspNetCore.Http.HttpRequest¢
+Ÿ
+H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs<? <(L
+%3System.Text.Encoding"System.Text.Encoding.UTF8.get*"
+System.Text.Encodingƒ€
+H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs<$ <(_
+%4System.IO.StreamReader"System.IO.StreamReader§
+¤
+H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs<( <(4
+
+%5void"]System.IO.StreamReader.StreamReader(System.IO.Stream, System.Text.Encoding?, bool, int, bool)*
+
+%4System.IO.StreamReader*
+
+%2System.IO.Stream*
+
+%3System.Text.Encoding*
+""*2€*
+""•
+’
+H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs< <(_ 
+readerSystem.IO.StreamReader"__id*
+
+%4System.IO.StreamReaderØÕ
+H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs> >(3*
+%6$System.Threading.Tasks.Task<TResult>"'System.IO.StreamReader.ReadToEndAsync()*"
+ 
+readerSystem.IO.StreamReader2ReadToEndAsync()m
+k
+H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs> >(3
+bodyStrstring"__id*
+""Ô
+Ñ
+H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs@ @(,"
+%7Newtonsoft.Json.Linq.JObject"*Newtonsoft.Json.Linq.JObject.Parse(string)* "
+Newtonsoft.Json.Linq.JObject*
+
+bodyStrstring¢
+Ÿ
+H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs@ @(,'
+contentNewtonsoft.Json.Linq.JObject"__id*$
+"
+%7Newtonsoft.Json.Linq.JObject°
+­
+H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.csB B(!
+%8Newtonsoft.Json.Linq.JToken"__mapGet*)
+'
+contentNewtonsoft.Json.Linq.JObject*	
+event´±
+H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.csB B('
+%9string"&Newtonsoft.Json.Linq.JToken.ToString()*#
+!
+%8Newtonsoft.Json.Linq.JToken2
+ToString()°
+­
+H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.csB B(=
+%10bool""string.operator ==(string, string)*
+"
+string*
+
+%9string*
+sessionDestroyed*
+1
+2*Ü
+1I
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.csD D(½Ð
+Í
+H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.csD D(
+%11MediatR.IMediator"7Presentation.Controllers.SessionController.Mediator.get*.,
+*Presentation.Controllers.SessionControllerµ
+²
+H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.csD9 D(M"
+%12Newtonsoft.Json.Linq.JToken"__mapGet*)
+'
+contentNewtonsoft.Json.Linq.JObject*
+	sessionId¶³
+H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.csD9 D(X
+%13string"&Newtonsoft.Json.Linq.JToken.ToString()*$
+"
+%12Newtonsoft.Json.Linq.JToken2
+ToString()´
+±
+H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.csDf D(y"
+%14Newtonsoft.Json.Linq.JToken"__mapGet*)
+'
+contentNewtonsoft.Json.Linq.JObject*
+
+duration·´
+I
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.csDf D(„
+%15string"&Newtonsoft.Json.Linq.JToken.ToString()*$
+"
+%14Newtonsoft.Json.Linq.JToken2
+ToString()‡
+„
+I
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.csDZ D(…
+
+%16int"int.Parse(string)*"
+int*
+
+%15string´
+±
+J
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.csD‡ D(˜"
+%17Newtonsoft.Json.Linq.JToken"__mapGet*)
+'
+contentNewtonsoft.Json.Linq.JObject*
+
+reason¸µ
+J
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.csD‡ D(£
+%18string"&Newtonsoft.Json.Linq.JToken.ToString()*$
+"
+%17Newtonsoft.Json.Linq.JToken2
+ToString()«¨
+I
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.csD  D(¤0
+%19)Application.Commands.UpdateSessionCommand")Application.Commands.UpdateSessionCommand“
+
+H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.csD$ D(8
+%20void"SApplication.Commands.UpdateSessionCommand.UpdateSessionCommand(string, int, string)*2
+0
+%19)Application.Commands.UpdateSessionCommand*
+
+%13string*
+
+
+%16int*
+
+%18stringž›
+J
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.csD¦ D(½)
+%21"System.Threading.CancellationToken""System.Threading.CancellationTokenÁ
+¾
+J
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.csDª D(»
+%22void"6System.Threading.CancellationToken.CancellationToken()*+
+)
+%21"System.Threading.CancellationToken¬©
+I
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.csD D(¾+
+%23$System.Threading.Tasks.Task<TResult>"`MediatR.ISender.Send<TResponse>(MediatR.IRequest<TResponse>, System.Threading.CancellationToken)*
+
+%11MediatR.IMediator*2
+0
+%19)Application.Commands.UpdateSessionCommand*+
+)
+%21"System.Threading.CancellationToken2PSend<TResponse>(MediatR.IRequest<TResponse>, System.Threading.CancellationToken)*
+2*®
+2H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.csG G("_
+H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.csG G(
+implicit return*µ
+3H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs6$ 6($a
+_
+H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs6 6("
+%24"__entrypoint*
+0B.,
+*Presentation.Controllers.SessionController

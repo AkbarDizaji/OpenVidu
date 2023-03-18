@@ -1,0 +1,30 @@
+
+7Presentation.Controllers.SessionController.Mediator.getH
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs ( "0*á
+0H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs$ (_à
+Ý
+H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs$ (/+
+%0%Microsoft.AspNetCore.Http.HttpContext"7Microsoft.AspNetCore.Mvc.ControllerBase.HttpContext.get*+)
+'Microsoft.AspNetCore.Mvc.ControllerBaseÖ
+Ó
+H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs$ (?
+%1System.IServiceProvider"9Microsoft.AspNetCore.Http.HttpContext.RequestServices.get*-
++
+%0%Microsoft.AspNetCore.Http.HttpContextÐ
+Í
+H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs$ (_
+%2MediatR.IMediator"xMicrosoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService<T>(System.IServiceProvider)*M"K
+IMicrosoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions*
+
+%1System.IServiceProvider*
+1*®
+1H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs` (`"_
+H
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.cs_ (`
+implicit returnB.,
+*Presentation.Controllers.SessionController

@@ -1,0 +1,75 @@
+
+:Infrastructure.Persistance.PersistService.PersistService()G
+=D:\Vidu\src\Vidu\Infrastructure\Persistance\PersistService.cs ("1*Q
+1G
+=D:\Vidu\src\Vidu\Infrastructure\Persistance\PersistService.cs	 (	*
+0*´
+0G
+=D:\Vidu\src\Vidu\Infrastructure\Persistance\PersistService.cs (=Š‡
+G
+=D:\Vidu\src\Vidu\Infrastructure\Persistance\PersistService.cs (+ 
+%0MongoDB.Driver.MongoClient"MongoDB.Driver.MongoClient¦
+£
+G
+=D:\Vidu\src\Vidu\Infrastructure\Persistance\PersistService.cs ()
+
+%1void"(MongoDB.Driver.MongoClient.MongoClient()*"
+ 
+%0MongoDB.Driver.MongoClientÐ
+Í
+G
+=D:\Vidu\src\Vidu\Infrastructure\Persistance\PersistService.cs (+X+
+)Infrastructure.Persistance.PersistService")
+mongoClientMongoDB.Driver.MongoClient"__id*"
+ 
+%0MongoDB.Driver.MongoClientÐ
+Í
+G
+=D:\Vidu\src\Vidu\Infrastructure\Persistance\PersistService.cs ( 
+%2MongoDB.Driver.MongoClient"__id*Z*X+
+)Infrastructure.Persistance.PersistService")
+mongoClientMongoDB.Driver.MongoClient‚
+ÿ
+G
+=D:\Vidu\src\Vidu\Infrastructure\Persistance\PersistService.cs (5#
+%3MongoDB.Driver.IMongoDatabase"TMongoDB.Driver.MongoClient.GetDatabase(string, MongoDB.Driver.MongoDatabaseSettings)*"
+ 
+%2MongoDB.Driver.MongoClient*
+	publisher*
+""Í
+Ê
+G
+=D:\Vidu\src\Vidu\Infrastructure\Persistance\PersistService.cs (5R+
+)Infrastructure.Persistance.PersistService"#
+dbMongoDB.Driver.IMongoDatabase"__id*%
+#
+%3MongoDB.Driver.IMongoDatabaseÍ
+Ê
+G
+=D:\Vidu\src\Vidu\Infrastructure\Persistance\PersistService.cs (#
+%4MongoDB.Driver.IMongoDatabase"__id*T*R+
+)Infrastructure.Persistance.PersistService"#
+dbMongoDB.Driver.IMongoDatabaseíê
+G
+=D:\Vidu\src\Vidu\Infrastructure\Persistance\PersistService.cs (>0
+%5*MongoDB.Driver.IMongoCollection<TDocument>"fMongoDB.Driver.IMongoDatabase.GetCollection<TDocument>(string, MongoDB.Driver.MongoCollectionSettings)*%
+#
+%4MongoDB.Driver.IMongoDatabase*
+
+sessions*
+""2HGetCollection<TDocument>(string, MongoDB.Driver.MongoCollectionSettings)ï
+ì
+G
+=D:\Vidu\src\Vidu\Infrastructure\Persistance\PersistService.cs (>g+
+)Infrastructure.Persistance.PersistService"8
+
+collection*MongoDB.Driver.IMongoCollection<TDocument>"__id*2
+0
+%5*MongoDB.Driver.IMongoCollection<TDocument>*
+2*¬
+2G
+=D:\Vidu\src\Vidu\Infrastructure\Persistance\PersistService.cs	 (	"^
+G
+=D:\Vidu\src\Vidu\Infrastructure\Persistance\PersistService.cs (	
+implicit returnB-+
+)Infrastructure.Persistance.PersistService

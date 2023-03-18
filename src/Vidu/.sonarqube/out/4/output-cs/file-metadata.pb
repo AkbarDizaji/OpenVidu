@@ -1,0 +1,12 @@
+@
+7D:\Vidu\src\Vidu\Presentation\App_Start\WebApiConfig.csutf-8B
+9D:\Vidu\src\Vidu\Presentation\Controllers\ApiContoller.csutf-8J
+AD:\Vidu\src\Vidu\Presentation\Controllers\ConnectionController.csutf-8G
+>D:\Vidu\src\Vidu\Presentation\Controllers\SessionController.csutf-85
+,D:\Vidu\src\Vidu\Presentation\GlobalUsing.csutf-81
+(D:\Vidu\src\Vidu\Presentation\Program.csutf-8@
+7D:\Vidu\src\Vidu\Presentation\Service\StorageService.csutf-8X
+MD:\Vidu\src\Vidu\Presentation\obj\Debug\net6.0\Presentation.GlobalUsings.g.csutf-8h
+]D:\Vidu\src\Vidu\Presentation\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.csutf-8V
+KD:\Vidu\src\Vidu\Presentation\obj\Debug\net6.0\Presentation.AssemblyInfo.csutf-8i
+^D:\Vidu\src\Vidu\Presentation\obj\Debug\net6.0\Presentation.MvcApplicationPartsAssemblyInfo.csutf-8

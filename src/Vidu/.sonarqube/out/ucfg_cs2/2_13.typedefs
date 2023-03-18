@@ -1,0 +1,31 @@
+π
+$Presentation.GRPC.CreateSessionReplyobjectQ
+CreateSessionReply()9Presentation.GRPC.CreateSessionReply.CreateSessionReply()I
+OnConstruction()5Presentation.GRPC.CreateSessionReply.OnConstruction()ô
+8CreateSessionReply(Presentation.GRPC.CreateSessionReply)]Presentation.GRPC.CreateSessionReply.CreateSessionReply(Presentation.GRPC.CreateSessionReply)7
+Clone(),Presentation.GRPC.CreateSessionReply.Clone()E
+Equals(object)3Presentation.GRPC.CreateSessionReply.Equals(object)Å
+,Equals(Presentation.GRPC.CreateSessionReply)QPresentation.GRPC.CreateSessionReply.Equals(Presentation.GRPC.CreateSessionReply)C
+GetHashCode()2Presentation.GRPC.CreateSessionReply.GetHashCode()=
+
+ToString()/Presentation.GRPC.CreateSessionReply.ToString()}
+*WriteTo(Google.Protobuf.CodedOutputStream)OPresentation.GRPC.CreateSessionReply.WriteTo(Google.Protobuf.CodedOutputStream)…
+PGoogle.Protobuf.IBufferMessage.InternalWriteTo(ref Google.Protobuf.WriteContext)uPresentation.GRPC.CreateSessionReply.Google.Protobuf.IBufferMessage.InternalWriteTo(ref Google.Protobuf.WriteContext)G
+CalculateSize()4Presentation.GRPC.CreateSessionReply.CalculateSize()á
+/MergeFrom(Presentation.GRPC.CreateSessionReply)TPresentation.GRPC.CreateSessionReply.MergeFrom(Presentation.GRPC.CreateSessionReply)
++MergeFrom(Google.Protobuf.CodedInputStream)PPresentation.GRPC.CreateSessionReply.MergeFrom(Google.Protobuf.CodedInputStream)Õ
+RGoogle.Protobuf.IBufferMessage.InternalMergeFrom(ref Google.Protobuf.ParseContext)wPresentation.GRPC.CreateSessionReply.Google.Protobuf.IBufferMessage.InternalMergeFrom(ref Google.Protobuf.ParseContext)w
+'Google.Protobuf.IMessage.Descriptor.getLPresentation.GRPC.CreateSessionReply.Google.Protobuf.IMessage.Descriptor.getw
+'Google.Protobuf.IMessage.Descriptor.setLPresentation.GRPC.CreateSessionReply.Google.Protobuf.IMessage.Descriptor.set5
+Id.get+Presentation.GRPC.CreateSessionReply.Id.get5
+Id.set+Presentation.GRPC.CreateSessionReply.Id.setC
+Recording.get2Presentation.GRPC.CreateSessionReply.Recording.getC
+Recording.set2Presentation.GRPC.CreateSessionReply.Recording.setC
+MediaMode.get2Presentation.GRPC.CreateSessionReply.MediaMode.getC
+MediaMode.set2Presentation.GRPC.CreateSessionReply.MediaMode.setK
+RecordingMode.get6Presentation.GRPC.CreateSessionReply.RecordingMode.getK
+RecordingMode.set6Presentation.GRPC.CreateSessionReply.RecordingMode.setQ
+ForcedVideoCodec.get9Presentation.GRPC.CreateSessionReply.ForcedVideoCodec.getQ
+ForcedVideoCodec.set9Presentation.GRPC.CreateSessionReply.ForcedVideoCodec.setQ
+AllowTranscoding.get9Presentation.GRPC.CreateSessionReply.AllowTranscoding.getQ
+AllowTranscoding.set9Presentation.GRPC.CreateSessionReply.AllowTranscoding.set

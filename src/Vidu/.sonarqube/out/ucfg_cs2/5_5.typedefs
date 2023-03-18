@@ -1,0 +1,4 @@
+Î
+%Presentation.GRPC.Greeter.GreeterBaseobjectÖ
+VSendSessionCreate(Presentation.GRPC.CreateSessionRequest, Grpc.Core.ServerCallContext)|Presentation.GRPC.Greeter.GreeterBase.SendSessionCreate(Presentation.GRPC.CreateSessionRequest, Grpc.Core.ServerCallContext)D
+GreeterBase()3Presentation.GRPC.Greeter.GreeterBase.GreeterBase()

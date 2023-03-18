@@ -1,0 +1,39 @@
+
+²Application.Commands.CreateSessionCommandHandler.CreateSessionCommandHandler(AutoMapper.IMapper, Infrastructure.Persistance.IPersistanceService, Infrastructure.GRPC.IGRPCService)G
+=D:\Vidu\src\Vidu\Application\Commands\CreateSessionCommand.cs (&"1*Q
+1G
+=D:\Vidu\src\Vidu\Application\Commands\CreateSessionCommand.cs (*
+0*¥
+0G
+=D:\Vidu\src\Vidu\Application\Commands\CreateSessionCommand.cs (0Ç
+Ä
+G
+=D:\Vidu\src\Vidu\Application\Commands\CreateSessionCommand.cs (S2
+0Application.Commands.CreateSessionCommandHandler"
+_mapperAutoMapper.IMapper"__id*
+
+mapperAutoMapper.IMapperí
+ê
+G
+=D:\Vidu\src\Vidu\Application\Commands\CreateSessionCommand.cs ("f2
+0Application.Commands.CreateSessionCommandHandler"0
+_grpcService Infrastructure.GRPC.IGRPCService"__id*1
+/
+grpcService Infrastructure.GRPC.IGRPCService—
+”
+G
+=D:\Vidu\src\Vidu\Application\Commands\CreateSessionCommand.cs (0{2
+0Application.Commands.CreateSessionCommandHandler"E
+_persistanceService.Infrastructure.Persistance.IPersistanceService"__id*F
+D
+persistanceService.Infrastructure.Persistance.IPersistanceService*
+2*¬
+2G
+=D:\Vidu\src\Vidu\Application\Commands\CreateSessionCommand.cs ("^
+G
+=D:\Vidu\src\Vidu\Application\Commands\CreateSessionCommand.cs (
+implicit return:
+mapperAutoMapper.IMapper:D
+persistanceService.Infrastructure.Persistance.IPersistanceService:/
+grpcService Infrastructure.GRPC.IGRPCServiceB42
+0Application.Commands.CreateSessionCommandHandler

@@ -1,0 +1,23 @@
+É	
+Domain.Session.Connectionobject^
+ Connection(string, string, bool):Domain.Session.Connection.Connection(string, string, bool)2
+
+ToString()$Domain.Session.Connection.ToString()l
+'PrintMembers(System.Text.StringBuilder)ADomain.Session.Connection.PrintMembers(System.Text.StringBuilder)8
+GetHashCode()'Domain.Session.Connection.GetHashCode()<
+Equals(object?))Domain.Session.Connection.Equals(object?)b
+"Equals(Domain.Session.Connection?)<Domain.Session.Connection.Equals(Domain.Session.Connection?)2
+
+<Clone>$()$Domain.Session.Connection.<Clone>$()h
+%Connection(Domain.Session.Connection)?Domain.Session.Connection.Connection(Domain.Session.Connection)x
+-Deconstruct(out string, out string, out bool)GDomain.Session.Connection.Deconstruct(out string, out string, out bool)F
+EqualityContract.get.Domain.Session.Connection.EqualityContract.getF
+EqualityContract.set.Domain.Session.Connection.EqualityContract.set*
+Id.get Domain.Session.Connection.Id.get*
+Id.set Domain.Session.Connection.Id.set.
+Type.get"Domain.Session.Connection.Type.get.
+Type.set"Domain.Session.Connection.Type.set2
+
+Record.get$Domain.Session.Connection.Record.get2
+
+Record.set$Domain.Session.Connection.Record.set

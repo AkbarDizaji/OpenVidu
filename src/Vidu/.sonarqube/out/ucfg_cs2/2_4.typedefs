@@ -1,0 +1,9 @@
+Ã
+(Application.Commons.ViduConnectionConfigobjectY
+ViduConnectionConfig()?Application.Commons.ViduConnectionConfig.ViduConnectionConfig()C
+BaseUrl.get4Application.Commons.ViduConnectionConfig.BaseUrl.getC
+BaseUrl.set4Application.Commons.ViduConnectionConfig.BaseUrl.setC
+RestUrl.get4Application.Commons.ViduConnectionConfig.RestUrl.getC
+RestUrl.set4Application.Commons.ViduConnectionConfig.RestUrl.setO
+Authorization.get:Application.Commons.ViduConnectionConfig.Authorization.getO
+Authorization.set:Application.Commons.ViduConnectionConfig.Authorization.set

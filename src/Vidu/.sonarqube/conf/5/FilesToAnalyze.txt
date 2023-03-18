@@ -1,0 +1,13 @@
+﻿D:\Vidu\src\Vidu\Presentation.GRPC\Program.cs
+D:\Vidu\src\Vidu\Presentation.GRPC\Services\GreeterService.cs
+D:\Vidu\src\Vidu\Presentation.GRPC\obj\Debug\net6.0\Presentation.GRPC.GlobalUsings.g.cs
+D:\Vidu\src\Vidu\Presentation.GRPC\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+D:\Vidu\src\Vidu\Presentation.GRPC\obj\Debug\net6.0\Protos\Greet.cs
+D:\Vidu\src\Vidu\Presentation.GRPC\obj\Debug\net6.0\Protos\GreetGrpc.cs
+D:\Vidu\src\Vidu\Presentation.GRPC\obj\Debug\net6.0\Presentation.GRPC.AssemblyInfo.cs
+D:\Vidu\src\Vidu\Presentation.GRPC\appsettings.Development.json
+D:\Vidu\src\Vidu\Presentation.GRPC\appsettings.json
+D:\Vidu\src\Vidu\Presentation.GRPC\Dockerfile
+D:\Vidu\src\Vidu\Presentation.GRPC\Protos\greet.proto
+D:\Vidu\src\Vidu\Presentation.GRPC\Properties\launchSettings.json
+D:\Vidu\src\Vidu\.dockerignore

@@ -1,0 +1,4 @@
+ˆ
+)Presentation.GRPC.Services.GreeterService%Presentation.GRPC.Greeter.GreeterBaseobjectÛ
+VSendSessionCreate(Presentation.GRPC.CreateSessionRequest, Grpc.Core.ServerCallContext)€Presentation.GRPC.Services.GreeterService.SendSessionCreate(Presentation.GRPC.CreateSessionRequest, Grpc.Core.ServerCallContext)N
+GreeterService():Presentation.GRPC.Services.GreeterService.GreeterService()

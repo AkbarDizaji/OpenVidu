@@ -1,0 +1,162 @@
+
+,Infrastructure.GRPC.GRPCService.SendCreate()=
+3D:\Vidu\src\Vidu\Infrastructure\GRPC\GRPCService.cs	 	("0*­
+0=
+3D:\Vidu\src\Vidu\Infrastructure\GRPC\GRPCService.cs (E”‘
+=
+3D:\Vidu\src\Vidu\Infrastructure\GRPC\GRPCService.cs# (;*
+%0$Presentation.GRPC.CreateSessionReply"$Presentation.GRPC.CreateSessionReply·
+´
+=
+3D:\Vidu\src\Vidu\Infrastructure\GRPC\GRPCService.cs' (9
+
+%1void"9Presentation.GRPC.CreateSessionReply.CreateSessionReply()*,
+*
+%0$Presentation.GRPC.CreateSessionReply¥
+¢
+=
+3D:\Vidu\src\Vidu\Infrastructure\GRPC\GRPCService.cs (;-
+reply$Presentation.GRPC.CreateSessionReply"__id*,
+*
+%0$Presentation.GRPC.CreateSessionReplyÒ
+Ï
+=
+3D:\Vidu\src\Vidu\Infrastructure\GRPC\GRPCService.cs (F!
+%2Grpc.Net.Client.GrpcChannel".Grpc.Net.Client.GrpcChannel.ForAddress(string)*"
+Grpc.Net.Client.GrpcChannel*
+https://localhost:7277•
+’
+=
+3D:\Vidu\src\Vidu\Infrastructure\GRPC\GRPCService.cs (F&
+channelGrpc.Net.Client.GrpcChannel"__id*#
+!
+%2Grpc.Net.Client.GrpcChannel*
+1*â
+1=
+3D:\Vidu\src\Vidu\Infrastructure\GRPC\GRPCService.cs (š—
+=
+3D:\Vidu\src\Vidu\Infrastructure\GRPC\GRPCService.cs (;-
+%3'Presentation.GRPC.Greeter.GreeterClient"'Presentation.GRPC.Greeter.GreeterClient÷
+ô
+=
+3D:\Vidu\src\Vidu\Infrastructure\GRPC\GRPCService.cs (2
+
+%4void"LPresentation.GRPC.Greeter.GreeterClient.GreeterClient(Grpc.Core.ChannelBase)*/
+-
+%3'Presentation.GRPC.Greeter.GreeterClient*(
+&
+channelGrpc.Net.Client.GrpcChannel¬
+©
+=
+3D:\Vidu\src\Vidu\Infrastructure\GRPC\GRPCService.cs (;1
+client'Presentation.GRPC.Greeter.GreeterClient"__id*/
+-
+%3'Presentation.GRPC.Greeter.GreeterClient˜•
+=
+3D:\Vidu\src\Vidu\Infrastructure\GRPC\GRPCService.cs (*,
+%5&Presentation.GRPC.CreateSessionRequest"&Presentation.GRPC.CreateSessionRequest½
+º
+=
+3D:\Vidu\src\Vidu\Infrastructure\GRPC\GRPCService.cs ((
+
+%6void"=Presentation.GRPC.CreateSessionRequest.CreateSessionRequest()*.
+,
+%5&Presentation.GRPC.CreateSessionRequestŸœ
+=
+3D:\Vidu\src\Vidu\Infrastructure\GRPC\GRPCService.cs (*
+%7$Presentation.GRPC.CreateSessionReply"«Presentation.GRPC.Greeter.GreeterClient.SendSessionCreate(Presentation.GRPC.CreateSessionRequest, Grpc.Core.Metadata, System.DateTime?, System.Threading.CancellationToken)*3
+1
+client'Presentation.GRPC.Greeter.GreeterClient*.
+,
+%5&Presentation.GRPC.CreateSessionRequest*
+""*
+""*
+""2ƒSendSessionCreate(Presentation.GRPC.CreateSessionRequest, Grpc.Core.Metadata, System.DateTime?, System.Threading.CancellationToken)¦
+£
+=
+3D:\Vidu\src\Vidu\Infrastructure\GRPC\GRPCService.cs (.
+reply2$Presentation.GRPC.CreateSessionReply"__id*,
+*
+%7$Presentation.GRPC.CreateSessionReply©
+¦
+=
+3D:\Vidu\src\Vidu\Infrastructure\GRPC\GRPCService.cs (-
+reply$Presentation.GRPC.CreateSessionReply"__id*0
+.
+reply2$Presentation.GRPC.CreateSessionReply*
+2
+3*G
+2=
+3D:\Vidu\src\Vidu\Infrastructure\GRPC\GRPCService.cs (*
+4*˜
+3=
+3D:\Vidu\src\Vidu\Infrastructure\GRPC\GRPCService.cs (:®
+«
+=
+3D:\Vidu\src\Vidu\Infrastructure\GRPC\GRPCService.cs (#
+%8string"+Presentation.GRPC.CreateSessionReply.Id.get*/
+-
+reply$Presentation.GRPC.CreateSessionReply³
+°
+=
+3D:\Vidu\src\Vidu\Infrastructure\GRPC\GRPCService.cs% (4
+
+%9bool"2Presentation.GRPC.CreateSessionReply.Recording.get*/
+-
+reply$Presentation.GRPC.CreateSessionReply¶
+³
+=
+3D:\Vidu\src\Vidu\Infrastructure\GRPC\GRPCService.cs6 (E
+%10string"2Presentation.GRPC.CreateSessionReply.MediaMode.get*/
+-
+reply$Presentation.GRPC.CreateSessionReplyº
+·
+=
+3D:\Vidu\src\Vidu\Infrastructure\GRPC\GRPCService.csG (Z
+%11string"6Presentation.GRPC.CreateSessionReply.RecordingMode.get*/
+-
+reply$Presentation.GRPC.CreateSessionReply½
+º
+=
+3D:\Vidu\src\Vidu\Infrastructure\GRPC\GRPCService.cs ("
+%12string"9Presentation.GRPC.CreateSessionReply.ForcedVideoCodec.get*/
+-
+reply$Presentation.GRPC.CreateSessionReply»
+¸
+=
+3D:\Vidu\src\Vidu\Infrastructure\GRPC\GRPCService.cs$ (:
+%13bool"9Presentation.GRPC.CreateSessionReply.AllowTranscoding.get*/
+-
+reply$Presentation.GRPC.CreateSessionReplyxv
+=
+3D:\Vidu\src\Vidu\Infrastructure\GRPC\GRPCService.cs (;
+%14Domain.Session.Session"Domain.Session.Sessionœ
+™
+=
+3D:\Vidu\src\Vidu\Infrastructure\GRPC\GRPCService.cs (
+%15void"JDomain.Session.Session.Session(string, bool, string, string, string, bool)*
+
+%14Domain.Session.Session*
+
+%8string*
+
+
+%9bool*
+
+%10string*
+
+%11string*
+
+%12string*
+
+%13bool"`
+=
+3D:\Vidu\src\Vidu\Infrastructure\GRPC\GRPCService.cs (<
+
+%14Domain.Session.Session*˜
+4=
+3D:\Vidu\src\Vidu\Infrastructure\GRPC\GRPCService.cs ("T
+=
+3D:\Vidu\src\Vidu\Infrastructure\GRPC\GRPCService.cs (
+implicit returnB#!
+Infrastructure.GRPC.GRPCService

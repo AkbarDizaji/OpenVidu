@@ -1,0 +1,12 @@
+D:\Vidu\src\Vidu\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\Vidu\src\Vidu\Domain\bin\Debug\net6.0\Domain.dll
+D:\Vidu\src\Vidu\Domain\bin\Debug\net6.0\ref\Domain.dll
+D:\Vidu\src\Vidu\Domain\bin\Debug\net6.0\Domain.pdb
+D:\Vidu\src\Vidu\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+D:\Vidu\src\Vidu\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vidu\src\Vidu\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\Vidu\src\Vidu\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\Vidu\src\Vidu\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\Vidu\src\Vidu\Domain\obj\Debug\net6.0\Domain.dll
+D:\Vidu\src\Vidu\Domain\obj\Debug\net6.0\ref\Domain.dll
+D:\Vidu\src\Vidu\Domain\obj\Debug\net6.0\Domain.pdb

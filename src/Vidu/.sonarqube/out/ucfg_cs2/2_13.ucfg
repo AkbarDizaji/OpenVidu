@@ -1,0 +1,31 @@
+
+;Application.Commons.IMapFrom<T>.Mapping(AutoMapper.Profile):
+0D:\Vidu\src\Vidu\Application\Commons\IMapFrom.cs	 ("0*ò
+0:
+0D:\Vidu\src\Vidu\Application\Commons\IMapFrom.cs% (Ko
+m
+:
+0D:\Vidu\src\Vidu\Application\Commons\IMapFrom.csB (K
+%0System.Type"object.GetType()*
+
+objectÚ
+×
+:
+0D:\Vidu\src\Vidu\Application\Commons\IMapFrom.cs% (L#
+%1AutoMapper.IMappingExpression"6AutoMapper.Profile.CreateMap(System.Type, System.Type)*
+
+profileAutoMapper.Profile*
+""*
+
+%0System.Type"c
+:
+0D:\Vidu\src\Vidu\Application\Commons\IMapFrom.cs% (L%
+#
+%1AutoMapper.IMappingExpression*’
+1:
+0D:\Vidu\src\Vidu\Application\Commons\IMapFrom.csM (M"Q
+:
+0D:\Vidu\src\Vidu\Application\Commons\IMapFrom.csL (M
+implicit return:
+profileAutoMapper.ProfileB#!
+Application.Commons.IMapFrom<T>

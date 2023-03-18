@@ -1,0 +1,29 @@
+
+1Domain.Session.Session.AddClosedInfo(int, string)4
+*D:\Vidu\src\Vidu\Domain\Session\Session.csL L( "0*∫
+04
+*D:\Vidu\src\Vidu\Domain\Session\Session.csN P(ç
+ä
+4
+*D:\Vidu\src\Vidu\Domain\Session\Session.csN N(	
+%0int"#Domain.Session.Session.Duration.set*
+Domain.Session.Session*
+""ö
+ó
+4
+*D:\Vidu\src\Vidu\Domain\Session\Session.csO O(
+%1string"!Domain.Session.Session.Reason.set*
+Domain.Session.Session*
+
+reasonstring"R
+4
+*D:\Vidu\src\Vidu\Domain\Session\Session.csP P(
+Domain.Session.Session*Ü
+14
+*D:\Vidu\src\Vidu\Domain\Session\Session.csQ Q("K
+4
+*D:\Vidu\src\Vidu\Domain\Session\Session.csQ Q(
+implicit return:
+durationint:
+reasonstringB
+Domain.Session.Session

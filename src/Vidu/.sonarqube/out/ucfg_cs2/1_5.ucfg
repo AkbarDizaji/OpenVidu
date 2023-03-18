@@ -1,0 +1,58 @@
+
+lInfrastructure.Persistance.PersistService.Update(Domain.Session.Session, System.Threading.CancellationToken)G
+=D:\Vidu\src\Vidu\Infrastructure\Persistance\PersistService.cs ( "0*À
+0G
+=D:\Vidu\src\Vidu\Infrastructure\Persistance\PersistService.cs (<Ü
+Ù
+G
+=D:\Vidu\src\Vidu\Infrastructure\Persistance\PersistService.cs (17
+%01MongoDB.Driver.FilterDefinitionBuilder<TDocument>"-MongoDB.Driver.Builders<TDocument>.Filter.get*&"$
+"MongoDB.Driver.Builders<TDocument>ž
+›
+G
+=D:\Vidu\src\Vidu\Infrastructure\Persistance\PersistService.cs@ (J
+%1string"Domain.Session.Session.Id.get*#
+!
+sessionDomain.Session.SessionÜ
+Ù
+G
+=D:\Vidu\src\Vidu\Infrastructure\Persistance\PersistService.cs (K0
+%2*MongoDB.Driver.FilterDefinition<TDocument>"ˆMongoDB.Driver.FilterDefinitionBuilder<TDocument>.Eq<TField>(System.Linq.Expressions.Expression<System.Func<TDocument, TField>>, TField)*9
+7
+%01MongoDB.Driver.FilterDefinitionBuilder<TDocument>*
+""*
+
+%1string¼
+¹
+G
+=D:\Vidu\src\Vidu\Infrastructure\Persistance\PersistService.cs (K4
+filter*MongoDB.Driver.FilterDefinition<TDocument>"__id*2
+0
+%2*MongoDB.Driver.FilterDefinition<TDocument>ï
+ì
+G
+=D:\Vidu\src\Vidu\Infrastructure\Persistance\PersistService.cs (0
+%3*MongoDB.Driver.IMongoCollection<TDocument>"__id*i*g+
+)Infrastructure.Persistance.PersistService"8
+
+collection*MongoDB.Driver.IMongoCollection<TDocument>ÜÙ
+G
+=D:\Vidu\src\Vidu\Infrastructure\Persistance\PersistService.cs (=*
+%4$System.Threading.Tasks.Task<TResult>"´MongoDB.Driver.IMongoCollection<TDocument>.ReplaceOneAsync(MongoDB.Driver.FilterDefinition<TDocument>, TDocument, MongoDB.Driver.ReplaceOptions, System.Threading.CancellationToken)*2
+0
+%3*MongoDB.Driver.IMongoCollection<TDocument>*6
+4
+filter*MongoDB.Driver.FilterDefinition<TDocument>*#
+!
+sessionDomain.Session.Session*
+""*
+""2‰ReplaceOneAsync(MongoDB.Driver.FilterDefinition<TDocument>, TDocument, MongoDB.Driver.ReplaceOptions, System.Threading.CancellationToken)*
+1*¬
+1G
+=D:\Vidu\src\Vidu\Infrastructure\Persistance\PersistService.cs 	  (	"^
+G
+=D:\Vidu\src\Vidu\Infrastructure\Persistance\PersistService.cs   (	
+implicit return:!
+sessionDomain.Session.Session:7
+cancellationToken"System.Threading.CancellationTokenB-+
+)Infrastructure.Persistance.PersistService

@@ -1,0 +1,25 @@
+syntax = "proto3";
+
+option csharp_namespace = "Presentation.GRPC";
+
+package greet;
+
+// The greeting service definition.
+service Greeter {
+  // Sends a greeting
+  rpc SendSessionCreate (CreateSessionRequest) returns (CreateSessionReply);
+}
+
+// The request message containing the user ids.
+message CreateSessionRequest {
+}
+
+// The response message containing the greetings.
+message CreateSessionReply {
+  string id = 1;
+  bool recording= 2;
+  string mediaMode=3;
+  string recordingMode=4;
+  string forcedVideoCodec=5;
+  bool allowTranscoding = 6;
+}

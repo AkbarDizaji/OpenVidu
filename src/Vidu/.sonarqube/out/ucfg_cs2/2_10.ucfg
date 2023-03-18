@@ -1,0 +1,23 @@
+
+ÇApplication.Commands.CreateConnectionCommandHandler.CreateConnectionCommandHandler(Infrastructure.Persistance.IPersistanceService)J
+@D:\Vidu\src\Vidu\Application\Commands\CreateConnectionCommand.cs ()"1*T
+1J
+@D:\Vidu\src\Vidu\Application\Commands\CreateConnectionCommand.cs (*
+0*Ù
+0J
+@D:\Vidu\src\Vidu\Application\Commands\CreateConnectionCommand.cs (0ù
+ö
+J
+@D:\Vidu\src\Vidu\Application\Commands\CreateConnectionCommand.cs (0~5
+3Application.Commands.CreateConnectionCommandHandler"E
+_persistanceService.Infrastructure.Persistance.IPersistanceService"__id*F
+D
+persistanceService.Infrastructure.Persistance.IPersistanceService*
+2*≤
+2J
+@D:\Vidu\src\Vidu\Application\Commands\CreateConnectionCommand.cs ("a
+J
+@D:\Vidu\src\Vidu\Application\Commands\CreateConnectionCommand.cs (
+implicit return:D
+persistanceService.Infrastructure.Persistance.IPersistanceServiceB75
+3Application.Commands.CreateConnectionCommandHandler

@@ -1,0 +1,17 @@
+ù
+)Application.Commands.CreateSessionCommandobject®
+=CreateSessionCommand(System.Collections.Generic.List<string>)gApplication.Commands.CreateSessionCommand.CreateSessionCommand(System.Collections.Generic.List<string>)B
+
+ToString()4Application.Commands.CreateSessionCommand.ToString()|
+'PrintMembers(System.Text.StringBuilder)QApplication.Commands.CreateSessionCommand.PrintMembers(System.Text.StringBuilder)H
+GetHashCode()7Application.Commands.CreateSessionCommand.GetHashCode()L
+Equals(object?)9Application.Commands.CreateSessionCommand.Equals(object?)í
+2Equals(Application.Commands.CreateSessionCommand?)\Application.Commands.CreateSessionCommand.Equals(Application.Commands.CreateSessionCommand?)B
+
+<Clone>$()4Application.Commands.CreateSessionCommand.<Clone>$()¨
+?CreateSessionCommand(Application.Commands.CreateSessionCommand)iApplication.Commands.CreateSessionCommand.CreateSessionCommand(Application.Commands.CreateSessionCommand)û
+8Deconstruct(out System.Collections.Generic.List<string>)bApplication.Commands.CreateSessionCommand.Deconstruct(out System.Collections.Generic.List<string>)V
+EqualityContract.get>Application.Commands.CreateSessionCommand.EqualityContract.getV
+EqualityContract.set>Application.Commands.CreateSessionCommand.EqualityContract.setD
+UserIds.get5Application.Commands.CreateSessionCommand.UserIds.getD
+UserIds.set5Application.Commands.CreateSessionCommand.UserIds.set

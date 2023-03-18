@@ -1,0 +1,4 @@
+Ÿ
+0Application.Commands.CreateSessionCommandHandlerobjectπ
+ÅCreateSessionCommandHandler(AutoMapper.IMapper, Infrastructure.Persistance.IPersistanceService, Infrastructure.GRPC.IGRPCService)≤Application.Commands.CreateSessionCommandHandler.CreateSessionCommandHandler(AutoMapper.IMapper, Infrastructure.Persistance.IPersistanceService, Infrastructure.GRPC.IGRPCService)‡
+UHandle(Application.Commands.CreateSessionCommand, System.Threading.CancellationToken)ÜApplication.Commands.CreateSessionCommandHandler.Handle(Application.Commands.CreateSessionCommand, System.Threading.CancellationToken)

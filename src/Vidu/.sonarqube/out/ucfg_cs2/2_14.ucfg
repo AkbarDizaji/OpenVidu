@@ -1,0 +1,52 @@
+
+ŽMicrosoft.Extensions.DependencyInjection.ConfigureServices.AddApplicationServices(Microsoft.Extensions.DependencyInjection.IServiceCollection):
+0D:\Vidu\src\Vidu\Application\ConfigureService.cs	% 	(;"0*
+0:
+0D:\Vidu\src\Vidu\Application\ConfigureService.cs (´
+±
+:
+0D:\Vidu\src\Vidu\Application\ConfigureService.cs (> 
+%0System.Reflection.Assembly"1System.Reflection.Assembly.GetExecutingAssembly()*"
+System.Reflection.Assemblyò
+ï
+:
+0D:\Vidu\src\Vidu\Application\ConfigureService.cs (?A
+%1;Microsoft.Extensions.DependencyInjection.IServiceCollection"´Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddAutoMapper(Microsoft.Extensions.DependencyInjection.IServiceCollection, params System.Reflection.Assembly[])*H"F
+DMicrosoft.Extensions.DependencyInjection.ServiceCollectionExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*"
+ 
+%0System.Reflection.AssemblyÎ
+Ë
+:
+0D:\Vidu\src\Vidu\Application\ConfigureService.cs (AA
+%2;Microsoft.Extensions.DependencyInjection.IServiceCollection"­Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddScoped<TService, TImplementation>(Microsoft.Extensions.DependencyInjection.IServiceCollection)*O"M
+KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollectionÎ
+Ë
+:
+0D:\Vidu\src\Vidu\Application\ConfigureService.cs (7A
+%3;Microsoft.Extensions.DependencyInjection.IServiceCollection"­Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddScoped<TService, TImplementation>(Microsoft.Extensions.DependencyInjection.IServiceCollection)*O"M
+KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollectionƒ
+€
+:
+0D:\Vidu\src\Vidu\Application\ConfigureService.cs (A
+%4;Microsoft.Extensions.DependencyInjection.IServiceCollection"áMicrosoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddMediatR(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Action<Microsoft.Extensions.DependencyInjection.MediatRServiceConfiguration>)*H"F
+DMicrosoft.Extensions.DependencyInjection.ServiceCollectionExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+"""‡
+:
+0D:\Vidu\src\Vidu\Application\ConfigureService.cs (I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*’
+1:
+0D:\Vidu\src\Vidu\Application\ConfigureService.cs ("Q
+:
+0D:\Vidu\src\Vidu\Application\ConfigureService.cs (
+implicit return:G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollectionB>"<
+:Microsoft.Extensions.DependencyInjection.ConfigureServices

@@ -1,0 +1,21 @@
+û
+,Application.Commands.CreateConnectionCommandobject
+'CreateConnectionCommand(string, string)TApplication.Commands.CreateConnectionCommand.CreateConnectionCommand(string, string)E
+
+ToString()7Application.Commands.CreateConnectionCommand.ToString()
+'PrintMembers(System.Text.StringBuilder)TApplication.Commands.CreateConnectionCommand.PrintMembers(System.Text.StringBuilder)K
+GetHashCode():Application.Commands.CreateConnectionCommand.GetHashCode()O
+Equals(object?)<Application.Commands.CreateConnectionCommand.Equals(object?)›
+5Equals(Application.Commands.CreateConnectionCommand?)bApplication.Commands.CreateConnectionCommand.Equals(Application.Commands.CreateConnectionCommand?)E
+
+<Clone>$()7Application.Commands.CreateConnectionCommand.<Clone>$()»
+ECreateConnectionCommand(Application.Commands.CreateConnectionCommand)rApplication.Commands.CreateConnectionCommand.CreateConnectionCommand(Application.Commands.CreateConnectionCommand)w
+#Deconstruct(out string, out string)PApplication.Commands.CreateConnectionCommand.Deconstruct(out string, out string)Y
+EqualityContract.getAApplication.Commands.CreateConnectionCommand.EqualityContract.getY
+EqualityContract.setAApplication.Commands.CreateConnectionCommand.EqualityContract.set=
+Id.get3Application.Commands.CreateConnectionCommand.Id.get=
+Id.set3Application.Commands.CreateConnectionCommand.Id.setE
+
+UserId.get7Application.Commands.CreateConnectionCommand.UserId.getE
+
+UserId.set7Application.Commands.CreateConnectionCommand.UserId.set

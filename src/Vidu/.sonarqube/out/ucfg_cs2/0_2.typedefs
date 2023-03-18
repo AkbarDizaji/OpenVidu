@@ -1,0 +1,31 @@
+Ê
+Domain.Session.Sessionobject-
+	Session() Domain.Session.Session.Session()Å
+3Session(string, bool, string, string, string, bool)JDomain.Session.Session.Session(string, bool, string, string, string, bool)a
+#AddConnection(string, string, bool):Domain.Session.Session.AddConnection(string, string, bool)q
++RemoveConnection(Domain.Session.Connection)BDomain.Session.Session.RemoveConnection(Domain.Session.Connection)=
+AddUserId(string)(Domain.Session.Session.AddUserId(string)O
+AddClosedInfo(int, string)1Domain.Session.Session.AddClosedInfo(int, string)C
+RemoveUserId(string)+Domain.Session.Session.RemoveUserId(string)'
+Id.getDomain.Session.Session.Id.get'
+Id.setDomain.Session.Session.Id.set5
+Recording.get$Domain.Session.Session.Recording.get5
+Recording.set$Domain.Session.Session.Recording.set5
+MediaMode.get$Domain.Session.Session.MediaMode.get5
+MediaMode.set$Domain.Session.Session.MediaMode.set=
+RecordingMode.get(Domain.Session.Session.RecordingMode.get=
+RecordingMode.set(Domain.Session.Session.RecordingMode.setC
+ForcedVideoCodec.get+Domain.Session.Session.ForcedVideoCodec.getC
+ForcedVideoCodec.set+Domain.Session.Session.ForcedVideoCodec.setC
+AllowTranscoding.get+Domain.Session.Session.AllowTranscoding.getC
+AllowTranscoding.set+Domain.Session.Session.AllowTranscoding.set3
+Duration.get#Domain.Session.Session.Duration.get3
+Duration.set#Domain.Session.Session.Duration.set/
+
+Reason.get!Domain.Session.Session.Reason.get/
+
+Reason.set!Domain.Session.Session.Reason.set9
+Connections.get&Domain.Session.Session.Connections.get9
+Connections.set&Domain.Session.Session.Connections.set1
+UserIds.get"Domain.Session.Session.UserIds.get1
+UserIds.set"Domain.Session.Session.UserIds.set

@@ -1,0 +1,30 @@
+
+lInfrastructure.Persistance.PersistService.Insert(Domain.Session.Session, System.Threading.CancellationToken)G
+=D:\Vidu\src\Vidu\Infrastructure\Persistance\PersistService.cs ( "0*ò
+0G
+=D:\Vidu\src\Vidu\Infrastructure\Persistance\PersistService.cs (Fï
+ì
+G
+=D:\Vidu\src\Vidu\Infrastructure\Persistance\PersistService.cs (0
+%0*MongoDB.Driver.IMongoCollection<TDocument>"__id*i*g+
+)Infrastructure.Persistance.PersistService"8
+
+collection*MongoDB.Driver.IMongoCollection<TDocument>¬©
+G
+=D:\Vidu\src\Vidu\Infrastructure\Persistance\PersistService.cs (G!
+%1System.Threading.Tasks.Task"hMongoDB.Driver.IMongoCollection<TDocument>.InsertOneAsync(TDocument, System.Threading.CancellationToken)*2
+0
+%0*MongoDB.Driver.IMongoCollection<TDocument>*#
+!
+sessionDomain.Session.Session*9
+7
+cancellationToken"System.Threading.CancellationToken2=InsertOneAsync(TDocument, System.Threading.CancellationToken)*
+1*¬
+1G
+=D:\Vidu\src\Vidu\Infrastructure\Persistance\PersistService.cs	 (	"^
+G
+=D:\Vidu\src\Vidu\Infrastructure\Persistance\PersistService.cs (	
+implicit return:!
+sessionDomain.Session.Session:7
+cancellationToken"System.Threading.CancellationTokenB-+
+)Infrastructure.Persistance.PersistService

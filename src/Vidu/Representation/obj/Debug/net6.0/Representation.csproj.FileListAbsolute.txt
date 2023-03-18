@@ -1,0 +1,12 @@
+D:\Vidu\src\Vidu\Representation\bin\Debug\net6.0\Representation.deps.json
+D:\Vidu\src\Vidu\Representation\bin\Debug\net6.0\Representation.dll
+D:\Vidu\src\Vidu\Representation\bin\Debug\net6.0\ref\Representation.dll
+D:\Vidu\src\Vidu\Representation\bin\Debug\net6.0\Representation.pdb
+D:\Vidu\src\Vidu\Representation\obj\Debug\net6.0\Representation.csproj.AssemblyReference.cache
+D:\Vidu\src\Vidu\Representation\obj\Debug\net6.0\Representation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vidu\src\Vidu\Representation\obj\Debug\net6.0\Representation.AssemblyInfoInputs.cache
+D:\Vidu\src\Vidu\Representation\obj\Debug\net6.0\Representation.AssemblyInfo.cs
+D:\Vidu\src\Vidu\Representation\obj\Debug\net6.0\Representation.csproj.CoreCompileInputs.cache
+D:\Vidu\src\Vidu\Representation\obj\Debug\net6.0\Representation.dll
+D:\Vidu\src\Vidu\Representation\obj\Debug\net6.0\ref\Representation.dll
+D:\Vidu\src\Vidu\Representation\obj\Debug\net6.0\Representation.pdb

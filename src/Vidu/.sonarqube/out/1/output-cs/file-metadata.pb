@@ -1,0 +1,12 @@
+H
+?D:\Vidu\src\Vidu\Infrastructure\ExternalServices\IRestClient.csutf-87
+.D:\Vidu\src\Vidu\Infrastructure\GlobalUsing.csutf-8<
+3D:\Vidu\src\Vidu\Infrastructure\GRPC\GRPCService.csutf-8=
+4D:\Vidu\src\Vidu\Infrastructure\GRPC\IGRPCService.csutf-8K
+BD:\Vidu\src\Vidu\Infrastructure\Persistance\IPersistanceService.csutf-8F
+=D:\Vidu\src\Vidu\Infrastructure\Persistance\PersistService.csutf-8\
+QD:\Vidu\src\Vidu\Infrastructure\obj\Debug\net6.0\Infrastructure.GlobalUsings.g.csutf-8j
+_D:\Vidu\src\Vidu\Infrastructure\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.csutf-8D
+9D:\Vidu\src\Vidu\Infrastructure\obj\Debug\net6.0\Greet.csutf-8H
+=D:\Vidu\src\Vidu\Infrastructure\obj\Debug\net6.0\GreetGrpc.csutf-8Z
+OD:\Vidu\src\Vidu\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.csutf-8

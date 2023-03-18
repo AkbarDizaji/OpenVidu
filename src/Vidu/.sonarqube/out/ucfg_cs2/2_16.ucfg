@@ -1,0 +1,153 @@
+
+„Application.Commands.CloseSessionCommandHandler.Handle(Application.Commands.CloseSessionCommand, System.Threading.CancellationToken)F
+<D:\Vidu\src\Vidu\Application\Commands\CloseSessionCommand.cs (""0*ˆ
+
+0F
+<D:\Vidu\src\Vidu\Application\Commands\CloseSessionCommand.cs (…
+‚
+F
+<D:\Vidu\src\Vidu\Application\Commands\CloseSessionCommand.cs (/4
+%0.Infrastructure.Persistance.IPersistanceService"__id*|*z1
+/Application.Commands.CloseSessionCommandHandler"E
+_persistanceService.Infrastructure.Persistance.IPersistanceServiceÈ
+Å
+F
+<D:\Vidu\src\Vidu\Application\Commands\CloseSessionCommand.cs! (2
+%1string"6Application.Commands.CloseSessionCommand.SessionId.get*5
+3
+request(Application.Commands.CloseSessionCommand«¨
+F
+<D:\Vidu\src\Vidu\Application\Commands\CloseSessionCommand.cs (F*
+%2$System.Threading.Tasks.Task<TResult>"nInfrastructure.Persistance.IPersistanceService.GetSessionAsyncById(string, System.Threading.CancellationToken)*6
+4
+%0.Infrastructure.Persistance.IPersistanceService*
+
+%1string*9
+7
+cancellationToken"System.Threading.CancellationToken2?GetSessionAsyncById(string, System.Threading.CancellationToken){
+y
+F
+<D:\Vidu\src\Vidu\Application\Commands\CloseSessionCommand.cs (F!
+sessionDomain.Session.Session"__id*
+""´
+±
+F
+<D:\Vidu\src\Vidu\Application\Commands\CloseSessionCommand.cs (
+
+%3bool""object.operator ==(object, object)*
+"
+object*#
+!
+sessionDomain.Session.Session*
+""*
+1
+2*É
+1F
+<D:\Vidu\src\Vidu\Application\Commands\CloseSessionCommand.cs (TŠ
+F
+<D:\Vidu\src\Vidu\Application\Commands\CloseSessionCommand.cs (U"
+%4System.ArgumentNullException"System.ArgumentNullExceptionæ
+ã
+F
+<D:\Vidu\src\Vidu\Application\Commands\CloseSessionCommand.cs (+
+
+%5void";System.ArgumentNullException.ArgumentNullException(string?)*$
+"
+%4System.ArgumentNullException**(
+&The session with this id is not exist!*
+3*”
+2F
+<D:\Vidu\src\Vidu\Application\Commands\CloseSessionCommand.cs #(|z
+F
+<D:\Vidu\src\Vidu\Application\Commands\CloseSessionCommand.cs (%
+%6RestSharp.RestClient"RestSharp.RestClient˜
+•
+F
+<D:\Vidu\src\Vidu\Application\Commands\CloseSessionCommand.cs (#
+
+%7void"!RestSharp.RestClient.RestClient()*
+
+%6RestSharp.RestClient
+Œ
+F
+<D:\Vidu\src\Vidu\Application\Commands\CloseSessionCommand.cs (%
+clientRestSharp.RestClient"__id*
+
+%6RestSharp.RestClientÈ
+Å
+F
+<D:\Vidu\src\Vidu\Application\Commands\CloseSessionCommand.cs[ (l
+%8string"6Application.Commands.CloseSessionCommand.SessionId.get*5
+3
+request(Application.Commands.CloseSessionCommand¥
+¢
+F
+<D:\Vidu\src\Vidu\Application\Commands\CloseSessionCommand.cs* (l
+%9string"__concat*0.
+,http://localhost:4443/openvidu/api/sessions/*
+
+%8string_
+]
+F
+<D:\Vidu\src\Vidu\Application\Commands\CloseSessionCommand.csn ({
+%10"__id*
+""}
+F
+<D:\Vidu\src\Vidu\Application\Commands\CloseSessionCommand.cs (|
+%11RestSharp.RestRequest"RestSharp.RestRequestÏ
+Ì
+F
+<D:\Vidu\src\Vidu\Application\Commands\CloseSessionCommand.cs ()
+%12void"<RestSharp.RestRequest.RestRequest(string?, RestSharp.Method)*
+
+%11RestSharp.RestRequest*
+
+%9string*
+
+%10—
+”
+F
+<D:\Vidu\src\Vidu\Application\Commands\CloseSessionCommand.cs (|$
+httpRequestRestSharp.RestRequest"__id*
+
+%11RestSharp.RestRequestÃ
+À
+F
+<D:\Vidu\src\Vidu\Application\Commands\CloseSessionCommand.cs   (T
+%13RestSharp.RestRequest"PRestSharp.RestRequestExtensions.AddHeader(RestSharp.RestRequest, string, string)*#"!
+RestSharp.RestRequestExtensions*&
+$
+httpRequestRestSharp.RestRequest*
+Authorization*&$
+"Basic T1BFTlZJRFVBUFA6TVlfU0VDUkVU¨
+¥
+F
+<D:\Vidu\src\Vidu\Application\Commands\CloseSessionCommand.cs!& !(F+
+%14$System.Threading.Tasks.Task<TResult>"\RestSharp.RestClient.ExecuteAsync(RestSharp.RestRequest, System.Threading.CancellationToken)* 
+
+clientRestSharp.RestClient*&
+$
+httpRequestRestSharp.RestRequest*
+""|
+z
+F
+<D:\Vidu\src\Vidu\Application\Commands\CloseSessionCommand.cs! !(F"
+responseRestSharp.RestResponse"__id*
+""Š
+‡
+F
+<D:\Vidu\src\Vidu\Application\Commands\CloseSessionCommand.cs# #(
+%15MediatR.Unit"MediatR.Unit.Value.get*"
+MediatR.Unit"_
+F
+<D:\Vidu\src\Vidu\Application\Commands\CloseSessionCommand.cs# #(
+
+%15MediatR.Unit*ª
+3F
+<D:\Vidu\src\Vidu\Application\Commands\CloseSessionCommand.cs$ $("]
+F
+<D:\Vidu\src\Vidu\Application\Commands\CloseSessionCommand.cs$ $(
+implicit return:3
+request(Application.Commands.CloseSessionCommand:7
+cancellationToken"System.Threading.CancellationTokenB31
+/Application.Commands.CloseSessionCommandHandler

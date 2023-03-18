@@ -1,0 +1,119 @@
+
+êPresentation.Controllers.ConnectionController.CreateConnection(Application.Commands.CreateConnectionCommand, System.Threading.CancellationToken)K
+AD:\Vidu\src\Vidu\Presentation\Controllers\ConnectionController.cs (&"2*∆
+0K
+AD:\Vidu\src\Vidu\Presentation\Controllers\ConnectionController.cs	 (7ÿ
+’
+K
+AD:\Vidu\src\Vidu\Presentation\Controllers\ConnectionController.cs (
+%0MediatR.IMediator":Presentation.Controllers.ConnectionController.Mediator.get*1/
+-Presentation.Controllers.ConnectionController¡æ
+K
+AD:\Vidu\src\Vidu\Presentation\Controllers\ConnectionController.cs (8*
+%1$System.Threading.Tasks.Task<TResult>"`MediatR.ISender.Send<TResponse>(MediatR.IRequest<TResponse>, System.Threading.CancellationToken)*
+
+%0MediatR.IMediator*9
+7
+request,Application.Commands.CreateConnectionCommand*9
+7
+cancellationToken"System.Threading.CancellationToken2PSend<TResponse>(MediatR.IRequest<TResponse>, System.Threading.CancellationToken)"U
+K
+AD:\Vidu\src\Vidu\Presentation\Controllers\ConnectionController.cs	 (8
+""*¥
+1K
+AD:\Vidu\src\Vidu\Presentation\Controllers\ConnectionController.cs9 (9"b
+K
+AD:\Vidu\src\Vidu\Presentation\Controllers\ConnectionController.cs8 (9
+implicit return*∆
+2K
+AD:\Vidu\src\Vidu\Presentation\Controllers\ConnectionController.cs (⁄
+◊
+K
+AD:\Vidu\src\Vidu\Presentation\Controllers\ConnectionController.cs (&
+%2"__entrypoint*9
+7
+request,Application.Commands.CreateConnectionCommand*9
+7
+cancellationToken"System.Threading.CancellationToken·
+ﬁ
+K
+AD:\Vidu\src\Vidu\Presentation\Controllers\ConnectionController.cs	 (
+%3"
+__annotate*B@
+>Microsoft.AspNetCore.Mvc.FromBodyAttribute.FromBodyAttribute()*9
+7
+request,Application.Commands.CreateConnectionCommand·
+ﬁ
+K
+AD:\Vidu\src\Vidu\Presentation\Controllers\ConnectionController.cs (
+%4"
+__annotate*B@
+>Microsoft.AspNetCore.Mvc.HttpPostAttribute.HttpPostAttribute()*9
+7
+request,Application.Commands.CreateConnectionCommand¸
+˘
+K
+AD:\Vidu\src\Vidu\Presentation\Controllers\ConnectionController.cs (
+%5"
+__annotate*][
+YMicrosoft.AspNetCore.Mvc.ProducesResponseTypeAttribute.ProducesResponseTypeAttribute(int)*9
+7
+request,Application.Commands.CreateConnectionCommand¸
+˘
+K
+AD:\Vidu\src\Vidu\Presentation\Controllers\ConnectionController.cs (
+%6"
+__annotate*][
+YMicrosoft.AspNetCore.Mvc.ProducesResponseTypeAttribute.ProducesResponseTypeAttribute(int)*9
+7
+request,Application.Commands.CreateConnectionCommand∑
+¥
+K
+AD:\Vidu\src\Vidu\Presentation\Controllers\ConnectionController.cs (27
+request,Application.Commands.CreateConnectionCommand"__annotation*
+
+%3*
+
+%4*
+
+%5*
+
+%6·
+ﬁ
+K
+AD:\Vidu\src\Vidu\Presentation\Controllers\ConnectionController.cs (
+%7"
+__annotate*B@
+>Microsoft.AspNetCore.Mvc.HttpPostAttribute.HttpPostAttribute()*9
+7
+cancellationToken"System.Threading.CancellationToken¸
+˘
+K
+AD:\Vidu\src\Vidu\Presentation\Controllers\ConnectionController.cs (
+%8"
+__annotate*][
+YMicrosoft.AspNetCore.Mvc.ProducesResponseTypeAttribute.ProducesResponseTypeAttribute(int)*9
+7
+cancellationToken"System.Threading.CancellationToken¸
+˘
+K
+AD:\Vidu\src\Vidu\Presentation\Controllers\ConnectionController.cs (
+%9"
+__annotate*][
+YMicrosoft.AspNetCore.Mvc.ProducesResponseTypeAttribute.ProducesResponseTypeAttribute(int)*9
+7
+cancellationToken"System.Threading.CancellationTokenØ
+¨
+K
+AD:\Vidu\src\Vidu\Presentation\Controllers\ConnectionController.cs (+7
+cancellationToken"System.Threading.CancellationToken"__annotation*
+
+%7*
+
+%8*
+
+%9*
+0:7
+request,Application.Commands.CreateConnectionCommand:7
+cancellationToken"System.Threading.CancellationTokenB1/
+-Presentation.Controllers.ConnectionController

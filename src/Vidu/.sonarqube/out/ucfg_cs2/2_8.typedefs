@@ -1,0 +1,18 @@
+â
+
+(Application.Commands.CloseSessionCommandobjectc
+CloseSessionCommand(string)DApplication.Commands.CloseSessionCommand.CloseSessionCommand(string)A
+
+ToString()3Application.Commands.CloseSessionCommand.ToString(){
+'PrintMembers(System.Text.StringBuilder)PApplication.Commands.CloseSessionCommand.PrintMembers(System.Text.StringBuilder)G
+GetHashCode()6Application.Commands.CloseSessionCommand.GetHashCode()K
+Equals(object?)8Application.Commands.CloseSessionCommand.Equals(object?)è
+1Equals(Application.Commands.CloseSessionCommand?)ZApplication.Commands.CloseSessionCommand.Equals(Application.Commands.CloseSessionCommand?)A
+
+<Clone>$()3Application.Commands.CloseSessionCommand.<Clone>$()ß
+=CloseSessionCommand(Application.Commands.CloseSessionCommand)fApplication.Commands.CloseSessionCommand.CloseSessionCommand(Application.Commands.CloseSessionCommand)[
+Deconstruct(out string)@Application.Commands.CloseSessionCommand.Deconstruct(out string)U
+EqualityContract.get=Application.Commands.CloseSessionCommand.EqualityContract.getU
+EqualityContract.set=Application.Commands.CloseSessionCommand.EqualityContract.setG
+SessionId.get6Application.Commands.CloseSessionCommand.SessionId.getG
+SessionId.set6Application.Commands.CloseSessionCommand.SessionId.set

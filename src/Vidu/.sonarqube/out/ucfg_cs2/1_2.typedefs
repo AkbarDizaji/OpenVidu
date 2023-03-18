@@ -1,0 +1,7 @@
+ï
+)Infrastructure.Persistance.PersistServiceobjectN
+PersistService():Infrastructure.Persistance.PersistService.PersistService()²
+BInsert(Domain.Session.Session, System.Threading.CancellationToken)lInfrastructure.Persistance.PersistService.Insert(Domain.Session.Session, System.Threading.CancellationToken)²
+BUpdate(Domain.Session.Session, System.Threading.CancellationToken)lInfrastructure.Persistance.PersistService.Update(Domain.Session.Session, System.Threading.CancellationToken)¬
+?GetSessionAsyncById(string, System.Threading.CancellationToken)iInfrastructure.Persistance.PersistService.GetSessionAsyncById(string, System.Threading.CancellationToken)Ð
+QFindByUserIdInSpecificSession(string, string, System.Threading.CancellationToken){Infrastructure.Persistance.PersistService.FindByUserIdInSpecificSession(string, string, System.Threading.CancellationToken)

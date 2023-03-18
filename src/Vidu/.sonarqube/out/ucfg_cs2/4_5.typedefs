@@ -1,0 +1,6 @@
+˜
+-Presentation.Controllers.ConnectionController#Microsoft.AspNetCore.Mvc.Controller'Microsoft.AspNetCore.Mvc.ControllerBaseobject˜
+bCreateConnection(Application.Commands.CreateConnectionCommand, System.Threading.CancellationToken)êPresentation.Controllers.ConnectionController.CreateConnection(Application.Commands.CreateConnectionCommand, System.Threading.CancellationToken)^
+ConnectionController()DPresentation.Controllers.ConnectionController.ConnectionController()J
+Mediator.get:Presentation.Controllers.ConnectionController.Mediator.getJ
+Mediator.set:Presentation.Controllers.ConnectionController.Mediator.set

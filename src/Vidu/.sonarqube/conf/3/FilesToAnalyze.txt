@@ -1,0 +1,10 @@
+﻿D:\Vidu\test\TestProject1\Application_IntegrationTest.cs
+D:\Vidu\test\TestProject1\Application_UnitTest.cs
+D:\Vidu\test\TestProject1\DomainTest.cs
+D:\Users\A.dizaji\.nuget\packages\microsoft.net.test.sdk\16.11.0\build\netcoreapp2.1\Microsoft.NET.Test.Sdk.Program.cs
+D:\Users\A.dizaji\.nuget\packages\microsoft.testplatform.testhost\16.11.0\build\netcoreapp2.1\x64\testhost.exe
+D:\Users\A.dizaji\.nuget\packages\microsoft.testplatform.testhost\16.11.0\build\netcoreapp2.1\x64\testhost.dll
+D:\Users\A.dizaji\.nuget\packages\microsoft.testplatform.testhost\16.11.0\build\netcoreapp2.1\x64\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Users\A.dizaji\.nuget\packages\xunit.runner.visualstudio\2.4.3\build\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Users\A.dizaji\.nuget\packages\xunit.runner.visualstudio\2.4.3\build\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\Users\A.dizaji\.nuget\packages\xunit.runner.visualstudio\2.4.3\build\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll

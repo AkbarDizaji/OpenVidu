@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yFruCRmFcmkGmoX9PK4f5MjwWeMAgnZE6rlci2HdSwoPaNoEEUpOJN4mQE7zk5vtkzNzm2ju1ibM/+jrvT2XIg==",
+  "success": true,
+  "projectFilePath": "D:\\Vidu\\src\\Vidu\\Vidu\\Vidu.csproj",
+  "expectedPackageFiles": [
+    "D:\\Users\\A.dizaji\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,29 @@
+
++Domain.Session.Session.RemoveUserId(string)4
+*D:\Vidu\src\Vidu\Domain\Session\Session.csS S("0*é
+04
+*D:\Vidu\src\Vidu\Domain\Session\Session.csU V(£
+ 
+4
+*D:\Vidu\src\Vidu\Domain\Session\Session.csU U((
+%0"System.Collections.Generic.List<T>""Domain.Session.Session.UserIds.get*
+Domain.Session.Session³
+°
+4
+*D:\Vidu\src\Vidu\Domain\Session\Session.csU U(
+
+%1bool",System.Collections.Generic.List<T>.Remove(T)**
+(
+%0"System.Collections.Generic.List<T>*
+
+userIdstring"R
+4
+*D:\Vidu\src\Vidu\Domain\Session\Session.csV V(
+Domain.Session.Session*†
+14
+*D:\Vidu\src\Vidu\Domain\Session\Session.csW W("K
+4
+*D:\Vidu\src\Vidu\Domain\Session\Session.csW W(
+implicit return:
+userIdstringB
+Domain.Session.Session

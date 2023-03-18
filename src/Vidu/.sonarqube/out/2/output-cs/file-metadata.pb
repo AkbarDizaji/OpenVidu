@@ -1,0 +1,16 @@
+E
+<D:\Vidu\src\Vidu\Application\Commands\CloseSessionCommand.csutf-8I
+@D:\Vidu\src\Vidu\Application\Commands\CreateConnectionCommand.csutf-8F
+=D:\Vidu\src\Vidu\Application\Commands\CreateSessionCommand.csutf-8F
+=D:\Vidu\src\Vidu\Application\Commands\UpdateSessionCommand.csutf-89
+0D:\Vidu\src\Vidu\Application\Commons\IMapFrom.csutf-8?
+6D:\Vidu\src\Vidu\Application\Commons\MappingProfile.csutf-8E
+<D:\Vidu\src\Vidu\Application\Commons\ViduConnectionConfig.csutf-89
+0D:\Vidu\src\Vidu\Application\ConfigureService.csutf-84
++D:\Vidu\src\Vidu\Application\GlobalUsing.csutf-8:
+1D:\Vidu\src\Vidu\Application\Models\SessionDto.csutf-8V
+KD:\Vidu\src\Vidu\Application\obj\Debug\net6.0\Application.GlobalUsings.g.csutf-8g
+\D:\Vidu\src\Vidu\Application\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.csutf-8A
+6D:\Vidu\src\Vidu\Application\obj\Debug\net6.0\Greet.csutf-8E
+:D:\Vidu\src\Vidu\Application\obj\Debug\net6.0\GreetGrpc.csutf-8T
+ID:\Vidu\src\Vidu\Application\obj\Debug\net6.0\Application.AssemblyInfo.csutf-8

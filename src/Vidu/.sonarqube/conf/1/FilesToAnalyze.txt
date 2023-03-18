@@ -1,0 +1,6 @@
+﻿D:\Vidu\src\Vidu\Infrastructure\ExternalServices\IRestClient.cs
+D:\Vidu\src\Vidu\Infrastructure\GlobalUsing.cs
+D:\Vidu\src\Vidu\Infrastructure\GRPC\GRPCService.cs
+D:\Vidu\src\Vidu\Infrastructure\GRPC\IGRPCService.cs
+D:\Vidu\src\Vidu\Infrastructure\Persistance\IPersistanceService.cs
+D:\Vidu\src\Vidu\Infrastructure\Persistance\PersistService.cs

@@ -1,0 +1,29 @@
+Product projects
+---------------------------------------
+D:\Vidu\src\Vidu\Domain\Domain.csproj
+D:\Vidu\src\Vidu\Infrastructure\Infrastructure.csproj
+D:\Vidu\src\Vidu\Application\Application.csproj
+D:\Vidu\src\Vidu\Presentation\Presentation.csproj
+D:\Vidu\src\Vidu\Presentation.GRPC\Presentation.GRPC.csproj
+
+
+Test projects
+---------------------------------------
+D:\Vidu\test\TestProject1\TestProject1.csproj
+
+
+Invalid projects
+---------------------------------------
+{none}
+
+
+Skipped projects
+---------------------------------------
+{none}
+
+
+Excluded projects
+---------------------------------------
+{none}
+
+

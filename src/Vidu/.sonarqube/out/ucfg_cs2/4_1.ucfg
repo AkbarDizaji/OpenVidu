@@ -1,0 +1,30 @@
+
+:Presentation.Controllers.ConnectionController.Mediator.getK
+AD:\Vidu\src\Vidu\Presentation\Controllers\ConnectionController.cs ( "0*í
+0K
+AD:\Vidu\src\Vidu\Presentation\Controllers\ConnectionController.cs$ (_ã
+à
+K
+AD:\Vidu\src\Vidu\Presentation\Controllers\ConnectionController.cs$ (/+
+%0%Microsoft.AspNetCore.Http.HttpContext"7Microsoft.AspNetCore.Mvc.ControllerBase.HttpContext.get*+)
+'Microsoft.AspNetCore.Mvc.ControllerBaseÙ
+Ö
+K
+AD:\Vidu\src\Vidu\Presentation\Controllers\ConnectionController.cs$ (?
+%1System.IServiceProvider"9Microsoft.AspNetCore.Http.HttpContext.RequestServices.get*-
++
+%0%Microsoft.AspNetCore.Http.HttpContextÓ
+Ð
+K
+AD:\Vidu\src\Vidu\Presentation\Controllers\ConnectionController.cs$ (_
+%2MediatR.IMediator"xMicrosoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService<T>(System.IServiceProvider)*M"K
+IMicrosoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions*
+
+%1System.IServiceProvider*
+1*´
+1K
+AD:\Vidu\src\Vidu\Presentation\Controllers\ConnectionController.cs` (`"b
+K
+AD:\Vidu\src\Vidu\Presentation\Controllers\ConnectionController.cs_ (`
+implicit returnB1/
+-Presentation.Controllers.ConnectionController

@@ -1,0 +1,14 @@
+Ã
+Application.Models.SessionDtoobject6
+
+ToString()(Application.Models.SessionDto.ToString()p
+'PrintMembers(System.Text.StringBuilder)EApplication.Models.SessionDto.PrintMembers(System.Text.StringBuilder)<
+GetHashCode()+Application.Models.SessionDto.GetHashCode()@
+Equals(object?)-Application.Models.SessionDto.Equals(object?)n
+&Equals(Application.Models.SessionDto?)DApplication.Models.SessionDto.Equals(Application.Models.SessionDto?)6
+
+<Clone>$()(Application.Models.SessionDto.<Clone>$()t
+)SessionDto(Application.Models.SessionDto)GApplication.Models.SessionDto.SessionDto(Application.Models.SessionDto):
+SessionDto()*Application.Models.SessionDto.SessionDto()J
+EqualityContract.get2Application.Models.SessionDto.EqualityContract.getJ
+EqualityContract.set2Application.Models.SessionDto.EqualityContract.set

@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5e9d51cd-3a02-476c-ac99-3e4a062c4d2a": {
+      "ProjectGuid": "5e9d51cd-3a02-476c-ac99-3e4a062c4d2a",
+      "DisplayName": "Domain",
+      "ColorIndex": 0
+    },
+    "73b87964-e5c7-4ec0-a43e-1bdc21727c62": {
+      "ProjectGuid": "73b87964-e5c7-4ec0-a43e-1bdc21727c62",
+      "DisplayName": "Infrastructure",
+      "ColorIndex": 1
+    },
+    "0c258fa7-9eef-4f2c-a9ab-7863fd61ebba": {
+      "ProjectGuid": "0c258fa7-9eef-4f2c-a9ab-7863fd61ebba",
+      "DisplayName": "Application",
+      "ColorIndex": 2
+    },
+    "4843a8ac-fc9d-43f9-a50b-77561468b9cc": {
+      "ProjectGuid": "4843a8ac-fc9d-43f9-a50b-77561468b9cc",
+      "DisplayName": "Representation",
+      "ColorIndex": 3
+    },
+    "948f1225-9ba0-4a07-9cb7-23e5bf403eec": {
+      "ProjectGuid": "948f1225-9ba0-4a07-9cb7-23e5bf403eec",
+      "DisplayName": "Presentation",
+      "ColorIndex": 4
+    },
+    "dbdb7976-c73c-43ee-8085-86062032afe0": {
+      "ProjectGuid": "dbdb7976-c73c-43ee-8085-86062032afe0",
+      "DisplayName": "Presentation.GRPC",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "aec9602d-58f3-4efa-9e7d-6b92c723a19c": {
+      "ProjectGuid": "aec9602d-58f3-4efa-9e7d-6b92c723a19c",
+      "DisplayName": "TestProject1",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}
